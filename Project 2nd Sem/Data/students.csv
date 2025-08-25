@@ -1,0 +1,1001 @@
+student_id,first_name,last_name,email,degree,semester
+F2021-009,Junaid,Khan,f2021-009@bnu.edu.pk,Management Business Computing,8
+F2021-034,Maha,Malik,f2021-034@bnu.edu.pk,Computer Science,8
+F2021-041,Amina,Zahid,f2021-041@bnu.edu.pk,Software Engineering,8
+F2021-045,Fatima,Qureshi,f2021-045@bnu.edu.pk,Software Engineering,8
+F2021-062,Osama,Zahid,f2021-062@bnu.edu.pk,Management Business Computing,8
+F2021-071,Ali,Zahid,f2021-071@bnu.edu.pk,Computer Science,8
+F2021-091,Ali,Rafiq,f2021-091@bnu.edu.pk,Software Engineering,8
+F2021-101,Amina,Qureshi,f2021-101@bnu.edu.pk,Management Business Computing,8
+F2021-119,Hassan,Mehmood,f2021-119@bnu.edu.pk,Software Engineering,8
+F2021-125,Laiba,Rana,f2021-125@bnu.edu.pk,Computer Science,8
+F2021-149,Laiba,Sheikh,f2021-149@bnu.edu.pk,Software Engineering,8
+F2021-161,Noman,Anwar,f2021-161@bnu.edu.pk,Computer Science,8
+F2021-162,Sana,Sheikh,f2021-162@bnu.edu.pk,Computer Science,8
+F2021-170,Amina,Ali,f2021-170@bnu.edu.pk,Software Engineering,8
+F2021-175,Osama,Farooq,f2021-175@bnu.edu.pk,Computer Science,8
+F2021-209,Umair,Ali,f2021-209@bnu.edu.pk,Software Engineering,8
+F2021-225,Rabia,Mirza,f2021-225@bnu.edu.pk,Management Business Computing,8
+F2021-232,Usman,Zahid,f2021-232@bnu.edu.pk,Management Business Computing,8
+F2021-233,Saad,Malik,f2021-233@bnu.edu.pk,Management Business Computing,8
+F2021-235,Ahsan,Anwar,f2021-235@bnu.edu.pk,Management Business Computing,8
+F2021-246,Amina,Farooq,f2021-246@bnu.edu.pk,Computer Science,8
+F2021-257,Emaan,Zahid,f2021-257@bnu.edu.pk,Management Business Computing,8
+F2021-271,Saad,Hussain,f2021-271@bnu.edu.pk,Management Business Computing,8
+F2021-273,Saad,Chaudhry,f2021-273@bnu.edu.pk,Computer Science,8
+F2021-290,Hassan,Ahmed,f2021-290@bnu.edu.pk,Management Business Computing,8
+F2021-303,Iqra,Tariq,f2021-303@bnu.edu.pk,Management Business Computing,8
+F2021-307,Laiba,Mirza,f2021-307@bnu.edu.pk,Management Business Computing,8
+F2021-319,Shahid,Farooq,f2021-319@bnu.edu.pk,Management Business Computing,8
+F2021-341,Maha,Mirza,f2021-341@bnu.edu.pk,Management Business Computing,8
+F2021-349,Hassan,Qureshi,f2021-349@bnu.edu.pk,Management Business Computing,8
+F2021-384,Hina,Mirza,f2021-384@bnu.edu.pk,Software Engineering,8
+F2021-387,Umair,Sheikh,f2021-387@bnu.edu.pk,Software Engineering,8
+F2021-390,Yasir,Sheikh,f2021-390@bnu.edu.pk,Software Engineering,8
+F2021-391,Asma,Javed,f2021-391@bnu.edu.pk,Management Business Computing,8
+F2021-418,Ahsan,Sheikh,f2021-418@bnu.edu.pk,Computer Science,8
+F2021-419,Maha,Mirza,f2021-419@bnu.edu.pk,Software Engineering,8
+F2021-420,Ahsan,Chaudhry,f2021-420@bnu.edu.pk,Management Business Computing,8
+F2021-440,Hina,Tariq,f2021-440@bnu.edu.pk,Software Engineering,8
+F2021-447,Dua,Tariq,f2021-447@bnu.edu.pk,Management Business Computing,8
+F2021-455,Shahid,Aslam,f2021-455@bnu.edu.pk,Computer Science,8
+F2021-458,Maha,Chaudhry,f2021-458@bnu.edu.pk,Management Business Computing,8
+F2021-468,Kiran,Khan,f2021-468@bnu.edu.pk,Software Engineering,8
+F2021-473,Fatima,Aslam,f2021-473@bnu.edu.pk,Computer Science,8
+F2021-474,Sana,Sheikh,f2021-474@bnu.edu.pk,Software Engineering,8
+F2021-480,Laiba,Aslam,f2021-480@bnu.edu.pk,Management Business Computing,8
+F2021-481,Bilal,Anwar,f2021-481@bnu.edu.pk,Software Engineering,8
+F2021-482,Umair,Farooq,f2021-482@bnu.edu.pk,Management Business Computing,8
+F2021-484,Kiran,Rana,f2021-484@bnu.edu.pk,Computer Science,8
+F2021-506,Nadia,Sheikh,f2021-506@bnu.edu.pk,Software Engineering,8
+F2021-508,Junaid,Chaudhry,f2021-508@bnu.edu.pk,Computer Science,8
+F2021-510,Rabia,Javed,f2021-510@bnu.edu.pk,Management Business Computing,8
+F2021-511,Saad,Chaudhry,f2021-511@bnu.edu.pk,Management Business Computing,8
+F2021-521,Emaan,Zahid,f2021-521@bnu.edu.pk,Management Business Computing,8
+F2021-531,Ali,Hussain,f2021-531@bnu.edu.pk,Software Engineering,8
+F2021-544,Bilal,Javed,f2021-544@bnu.edu.pk,Software Engineering,8
+F2021-558,Kiran,Aslam,f2021-558@bnu.edu.pk,Computer Science,8
+F2021-586,Shahid,Javed,f2021-586@bnu.edu.pk,Software Engineering,8
+F2021-591,Umair,Khan,f2021-591@bnu.edu.pk,Computer Science,8
+F2021-594,Hina,Tariq,f2021-594@bnu.edu.pk,Management Business Computing,8
+F2021-602,Waqas,Tariq,f2021-602@bnu.edu.pk,Computer Science,8
+F2021-619,Tariq,Mehmood,f2021-619@bnu.edu.pk,Software Engineering,8
+F2021-621,Umair,Qureshi,f2021-621@bnu.edu.pk,Management Business Computing,8
+F2021-641,Rabia,Rana,f2021-641@bnu.edu.pk,Software Engineering,8
+F2021-644,Umair,Chaudhry,f2021-644@bnu.edu.pk,Computer Science,8
+F2021-654,Bilal,Javed,f2021-654@bnu.edu.pk,Software Engineering,8
+F2021-678,Usman,Tariq,f2021-678@bnu.edu.pk,Computer Science,8
+F2021-683,Laiba,Khan,f2021-683@bnu.edu.pk,Computer Science,8
+F2021-706,Kiran,Rafiq,f2021-706@bnu.edu.pk,Management Business Computing,8
+F2021-710,Imran,Zahid,f2021-710@bnu.edu.pk,Software Engineering,8
+F2021-711,Imran,Qureshi,f2021-711@bnu.edu.pk,Software Engineering,8
+F2021-720,Hina,Malik,f2021-720@bnu.edu.pk,Software Engineering,8
+F2021-723,Hina,Saeed,f2021-723@bnu.edu.pk,Software Engineering,8
+F2021-764,Yasir,Ali,f2021-764@bnu.edu.pk,Software Engineering,8
+F2021-795,Waqas,Malik,f2021-795@bnu.edu.pk,Computer Science,8
+F2021-816,Ali,Mehmood,f2021-816@bnu.edu.pk,Computer Science,8
+F2021-819,Saad,Zahid,f2021-819@bnu.edu.pk,Computer Science,8
+F2021-834,Hina,Nawaz,f2021-834@bnu.edu.pk,Management Business Computing,8
+F2021-845,Yasir,Saeed,f2021-845@bnu.edu.pk,Computer Science,8
+F2021-850,Hina,Ahmed,f2021-850@bnu.edu.pk,Management Business Computing,8
+F2021-873,Saad,Anwar,f2021-873@bnu.edu.pk,Software Engineering,8
+F2021-874,Emaan,Nawaz,f2021-874@bnu.edu.pk,Software Engineering,8
+F2021-879,Imran,Aslam,f2021-879@bnu.edu.pk,Computer Science,8
+F2021-885,Zain,Chaudhry,f2021-885@bnu.edu.pk,Computer Science,8
+F2021-891,Zara,Mehmood,f2021-891@bnu.edu.pk,Computer Science,8
+F2021-892,Amina,Zahid,f2021-892@bnu.edu.pk,Software Engineering,8
+F2021-894,Saad,Rana,f2021-894@bnu.edu.pk,Management Business Computing,8
+F2021-896,Imran,Aslam,f2021-896@bnu.edu.pk,Software Engineering,8
+F2021-923,Zain,Rafiq,f2021-923@bnu.edu.pk,Software Engineering,8
+F2021-926,Shahid,Malik,f2021-926@bnu.edu.pk,Computer Science,8
+F2021-931,Junaid,Rafiq,f2021-931@bnu.edu.pk,Software Engineering,8
+F2021-933,Asma,Saeed,f2021-933@bnu.edu.pk,Software Engineering,8
+F2021-936,Tariq,Rana,f2021-936@bnu.edu.pk,Software Engineering,8
+F2021-939,Saad,Rafiq,f2021-939@bnu.edu.pk,Software Engineering,8
+F2021-944,Rabia,Tariq,f2021-944@bnu.edu.pk,Software Engineering,8
+F2021-947,Amina,Javed,f2021-947@bnu.edu.pk,Software Engineering,8
+F2021-950,Noman,Chaudhry,f2021-950@bnu.edu.pk,Software Engineering,8
+F2021-966,Hina,Nawaz,f2021-966@bnu.edu.pk,Software Engineering,8
+F2021-971,Tariq,Aslam,f2021-971@bnu.edu.pk,Computer Science,8
+F2021-989,Bilal,Saeed,f2021-989@bnu.edu.pk,Management Business Computing,8
+F2021-993,Waqas,Rana,f2021-993@bnu.edu.pk,Computer Science,8
+F2022-008,Rabia,Ali,f2022-008@bnu.edu.pk,Computer Science,6
+F2022-020,Zain,Anwar,f2022-020@bnu.edu.pk,Software Engineering,6
+F2022-026,Fatima,Rana,f2022-026@bnu.edu.pk,Management Business Computing,6
+F2022-027,Rabia,Sheikh,f2022-027@bnu.edu.pk,Management Business Computing,6
+F2022-030,Zara,Khan,f2022-030@bnu.edu.pk,Computer Science,6
+F2022-039,Waqas,Saeed,f2022-039@bnu.edu.pk,Management Business Computing,6
+F2022-045,Tariq,Rafiq,f2022-045@bnu.edu.pk,Software Engineering,6
+F2022-047,Asma,Chaudhry,f2022-047@bnu.edu.pk,Computer Science,6
+F2022-052,Rabia,Ahmed,f2022-052@bnu.edu.pk,Software Engineering,6
+F2022-054,Sana,Zahid,f2022-054@bnu.edu.pk,Management Business Computing,6
+F2022-059,Laiba,Ali,f2022-059@bnu.edu.pk,Software Engineering,6
+F2022-068,Saad,Mehmood,f2022-068@bnu.edu.pk,Software Engineering,6
+F2022-069,Sana,Rana,f2022-069@bnu.edu.pk,Computer Science,6
+F2022-072,Osama,Nawaz,f2022-072@bnu.edu.pk,Computer Science,6
+F2022-074,Waqas,Mirza,f2022-074@bnu.edu.pk,Software Engineering,6
+F2022-076,Zara,Rafiq,f2022-076@bnu.edu.pk,Computer Science,6
+F2022-079,Waqas,Malik,f2022-079@bnu.edu.pk,Management Business Computing,6
+F2022-080,Bilal,Chaudhry,f2022-080@bnu.edu.pk,Software Engineering,6
+F2022-091,Laiba,Mirza,f2022-091@bnu.edu.pk,Software Engineering,6
+F2022-094,Tariq,Ahmed,f2022-094@bnu.edu.pk,Management Business Computing,6
+F2022-096,Waqas,Anwar,f2022-096@bnu.edu.pk,Software Engineering,6
+F2022-111,Waqas,Mirza,f2022-111@bnu.edu.pk,Management Business Computing,6
+F2022-117,Umair,Saeed,f2022-117@bnu.edu.pk,Software Engineering,6
+F2022-118,Shahid,Qureshi,f2022-118@bnu.edu.pk,Software Engineering,6
+F2022-119,Hina,Rana,f2022-119@bnu.edu.pk,Computer Science,6
+F2022-126,Noman,Mehmood,f2022-126@bnu.edu.pk,Software Engineering,6
+F2022-133,Kiran,Farooq,f2022-133@bnu.edu.pk,Software Engineering,6
+F2022-135,Asma,Ahmed,f2022-135@bnu.edu.pk,Computer Science,6
+F2022-139,Fatima,Sheikh,f2022-139@bnu.edu.pk,Software Engineering,6
+F2022-142,Usman,Zahid,f2022-142@bnu.edu.pk,Software Engineering,6
+F2022-152,Imran,Zahid,f2022-152@bnu.edu.pk,Computer Science,6
+F2022-155,Maha,Saeed,f2022-155@bnu.edu.pk,Computer Science,6
+F2022-162,Laiba,Mehmood,f2022-162@bnu.edu.pk,Software Engineering,6
+F2022-176,Ahsan,Mehmood,f2022-176@bnu.edu.pk,Management Business Computing,6
+F2022-180,Imran,Qureshi,f2022-180@bnu.edu.pk,Computer Science,6
+F2022-185,Iqra,Malik,f2022-185@bnu.edu.pk,Computer Science,6
+F2022-186,Iqra,Ahmed,f2022-186@bnu.edu.pk,Computer Science,6
+F2022-192,Osama,Qureshi,f2022-192@bnu.edu.pk,Management Business Computing,6
+F2022-197,Imran,Rana,f2022-197@bnu.edu.pk,Computer Science,6
+F2022-199,Nadia,Saeed,f2022-199@bnu.edu.pk,Software Engineering,6
+F2022-203,Bilal,Khan,f2022-203@bnu.edu.pk,Computer Science,6
+F2022-222,Emaan,Tariq,f2022-222@bnu.edu.pk,Computer Science,6
+F2022-223,Ali,Mirza,f2022-223@bnu.edu.pk,Software Engineering,6
+F2022-226,Sana,Malik,f2022-226@bnu.edu.pk,Software Engineering,6
+F2022-240,Usman,Rafiq,f2022-240@bnu.edu.pk,Management Business Computing,6
+F2022-242,Iqra,Chaudhry,f2022-242@bnu.edu.pk,Computer Science,6
+F2022-244,Umair,Malik,f2022-244@bnu.edu.pk,Software Engineering,6
+F2022-245,Asma,Ali,f2022-245@bnu.edu.pk,Software Engineering,6
+F2022-250,Yasir,Aslam,f2022-250@bnu.edu.pk,Software Engineering,6
+F2022-254,Dua,Ali,f2022-254@bnu.edu.pk,Management Business Computing,6
+F2022-257,Bilal,Sheikh,f2022-257@bnu.edu.pk,Computer Science,6
+F2022-264,Waqas,Farooq,f2022-264@bnu.edu.pk,Software Engineering,6
+F2022-272,Ahsan,Farooq,f2022-272@bnu.edu.pk,Computer Science,6
+F2022-279,Ali,Anwar,f2022-279@bnu.edu.pk,Software Engineering,6
+F2022-280,Laiba,Qureshi,f2022-280@bnu.edu.pk,Computer Science,6
+F2022-291,Kiran,Aslam,f2022-291@bnu.edu.pk,Management Business Computing,6
+F2022-292,Yasir,Aslam,f2022-292@bnu.edu.pk,Computer Science,6
+F2022-294,Bilal,Ali,f2022-294@bnu.edu.pk,Software Engineering,6
+F2022-297,Umair,Khan,f2022-297@bnu.edu.pk,Software Engineering,6
+F2022-299,Shahid,Chaudhry,f2022-299@bnu.edu.pk,Software Engineering,6
+F2022-317,Zain,Ali,f2022-317@bnu.edu.pk,Software Engineering,6
+F2022-318,Iqra,Saeed,f2022-318@bnu.edu.pk,Software Engineering,6
+F2022-321,Imran,Qureshi,f2022-321@bnu.edu.pk,Management Business Computing,6
+F2022-330,Saad,Hussain,f2022-330@bnu.edu.pk,Management Business Computing,6
+F2022-336,Zain,Sheikh,f2022-336@bnu.edu.pk,Management Business Computing,6
+F2022-359,Fatima,Aslam,f2022-359@bnu.edu.pk,Management Business Computing,6
+F2022-362,Ahsan,Zahid,f2022-362@bnu.edu.pk,Computer Science,6
+F2022-366,Hassan,Ahmed,f2022-366@bnu.edu.pk,Computer Science,6
+F2022-371,Kiran,Saeed,f2022-371@bnu.edu.pk,Computer Science,6
+F2022-374,Ali,Tariq,f2022-374@bnu.edu.pk,Management Business Computing,6
+F2022-377,Zain,Hussain,f2022-377@bnu.edu.pk,Management Business Computing,6
+F2022-382,Dua,Mirza,f2022-382@bnu.edu.pk,Software Engineering,6
+F2022-383,Junaid,Saeed,f2022-383@bnu.edu.pk,Computer Science,6
+F2022-384,Junaid,Anwar,f2022-384@bnu.edu.pk,Computer Science,6
+F2022-386,Nadia,Hussain,f2022-386@bnu.edu.pk,Software Engineering,6
+F2022-397,Junaid,Rana,f2022-397@bnu.edu.pk,Software Engineering,6
+F2022-408,Iqra,Ali,f2022-408@bnu.edu.pk,Software Engineering,6
+F2022-425,Zara,Ahmed,f2022-425@bnu.edu.pk,Computer Science,6
+F2022-430,Shahid,Sheikh,f2022-430@bnu.edu.pk,Management Business Computing,6
+F2022-434,Rabia,Saeed,f2022-434@bnu.edu.pk,Computer Science,6
+F2022-447,Yasir,Ali,f2022-447@bnu.edu.pk,Computer Science,6
+F2022-451,Imran,Chaudhry,f2022-451@bnu.edu.pk,Computer Science,6
+F2022-461,Noman,Ali,f2022-461@bnu.edu.pk,Management Business Computing,6
+F2022-469,Saad,Zahid,f2022-469@bnu.edu.pk,Computer Science,6
+F2022-470,Nadia,Malik,f2022-470@bnu.edu.pk,Management Business Computing,6
+F2022-473,Osama,Rafiq,f2022-473@bnu.edu.pk,Software Engineering,6
+F2022-474,Nadia,Nawaz,f2022-474@bnu.edu.pk,Management Business Computing,6
+F2022-480,Usman,Aslam,f2022-480@bnu.edu.pk,Computer Science,6
+F2022-488,Tariq,Anwar,f2022-488@bnu.edu.pk,Software Engineering,6
+F2022-491,Ahsan,Ali,f2022-491@bnu.edu.pk,Software Engineering,6
+F2022-498,Sana,Qureshi,f2022-498@bnu.edu.pk,Management Business Computing,6
+F2022-499,Sana,Tariq,f2022-499@bnu.edu.pk,Management Business Computing,6
+F2022-503,Kiran,Aslam,f2022-503@bnu.edu.pk,Management Business Computing,6
+F2022-510,Asma,Ahmed,f2022-510@bnu.edu.pk,Management Business Computing,6
+F2022-513,Noman,Javed,f2022-513@bnu.edu.pk,Management Business Computing,6
+F2022-515,Umair,Nawaz,f2022-515@bnu.edu.pk,Management Business Computing,6
+F2022-516,Asma,Rafiq,f2022-516@bnu.edu.pk,Computer Science,6
+F2022-517,Shahid,Anwar,f2022-517@bnu.edu.pk,Management Business Computing,6
+F2022-520,Yasir,Aslam,f2022-520@bnu.edu.pk,Management Business Computing,6
+F2022-526,Umair,Mirza,f2022-526@bnu.edu.pk,Management Business Computing,6
+F2022-536,Laiba,Rafiq,f2022-536@bnu.edu.pk,Management Business Computing,6
+F2022-537,Osama,Nawaz,f2022-537@bnu.edu.pk,Computer Science,6
+F2022-539,Bilal,Qureshi,f2022-539@bnu.edu.pk,Computer Science,6
+F2022-544,Junaid,Zahid,f2022-544@bnu.edu.pk,Software Engineering,6
+F2022-549,Asma,Rana,f2022-549@bnu.edu.pk,Computer Science,6
+F2022-550,Ahsan,Khan,f2022-550@bnu.edu.pk,Computer Science,6
+F2022-558,Asma,Mirza,f2022-558@bnu.edu.pk,Management Business Computing,6
+F2022-562,Emaan,Chaudhry,f2022-562@bnu.edu.pk,Management Business Computing,6
+F2022-568,Amina,Saeed,f2022-568@bnu.edu.pk,Computer Science,6
+F2022-573,Amina,Malik,f2022-573@bnu.edu.pk,Software Engineering,6
+F2022-578,Maha,Rafiq,f2022-578@bnu.edu.pk,Management Business Computing,6
+F2022-588,Osama,Qureshi,f2022-588@bnu.edu.pk,Software Engineering,6
+F2022-589,Saad,Saeed,f2022-589@bnu.edu.pk,Computer Science,6
+F2022-592,Iqra,Aslam,f2022-592@bnu.edu.pk,Management Business Computing,6
+F2022-597,Imran,Anwar,f2022-597@bnu.edu.pk,Management Business Computing,6
+F2022-599,Sana,Khan,f2022-599@bnu.edu.pk,Software Engineering,6
+F2022-601,Noman,Ali,f2022-601@bnu.edu.pk,Management Business Computing,6
+F2022-603,Iqra,Javed,f2022-603@bnu.edu.pk,Software Engineering,6
+F2022-606,Usman,Khan,f2022-606@bnu.edu.pk,Computer Science,6
+F2022-610,Sana,Nawaz,f2022-610@bnu.edu.pk,Management Business Computing,6
+F2022-612,Imran,Zahid,f2022-612@bnu.edu.pk,Software Engineering,6
+F2022-615,Ali,Malik,f2022-615@bnu.edu.pk,Software Engineering,6
+F2022-620,Laiba,Saeed,f2022-620@bnu.edu.pk,Software Engineering,6
+F2022-630,Yasir,Anwar,f2022-630@bnu.edu.pk,Management Business Computing,6
+F2022-631,Maha,Rafiq,f2022-631@bnu.edu.pk,Computer Science,6
+F2022-640,Bilal,Khan,f2022-640@bnu.edu.pk,Management Business Computing,6
+F2022-647,Maha,Rafiq,f2022-647@bnu.edu.pk,Software Engineering,6
+F2022-649,Amina,Saeed,f2022-649@bnu.edu.pk,Computer Science,6
+F2022-651,Fatima,Anwar,f2022-651@bnu.edu.pk,Software Engineering,6
+F2022-658,Amina,Hussain,f2022-658@bnu.edu.pk,Management Business Computing,6
+F2022-659,Laiba,Tariq,f2022-659@bnu.edu.pk,Management Business Computing,6
+F2022-662,Sana,Saeed,f2022-662@bnu.edu.pk,Management Business Computing,6
+F2022-665,Zara,Malik,f2022-665@bnu.edu.pk,Software Engineering,6
+F2022-672,Bilal,Mirza,f2022-672@bnu.edu.pk,Management Business Computing,6
+F2022-673,Emaan,Chaudhry,f2022-673@bnu.edu.pk,Software Engineering,6
+F2022-687,Laiba,Mirza,f2022-687@bnu.edu.pk,Management Business Computing,6
+F2022-689,Laiba,Mirza,f2022-689@bnu.edu.pk,Management Business Computing,6
+F2022-695,Asma,Sheikh,f2022-695@bnu.edu.pk,Software Engineering,6
+F2022-729,Noman,Aslam,f2022-729@bnu.edu.pk,Management Business Computing,6
+F2022-730,Osama,Sheikh,f2022-730@bnu.edu.pk,Software Engineering,6
+F2022-739,Saad,Sheikh,f2022-739@bnu.edu.pk,Computer Science,6
+F2022-742,Hina,Khan,f2022-742@bnu.edu.pk,Management Business Computing,6
+F2022-745,Rabia,Ali,f2022-745@bnu.edu.pk,Management Business Computing,6
+F2022-748,Junaid,Qureshi,f2022-748@bnu.edu.pk,Computer Science,6
+F2022-751,Iqra,Javed,f2022-751@bnu.edu.pk,Management Business Computing,6
+F2022-764,Junaid,Malik,f2022-764@bnu.edu.pk,Software Engineering,6
+F2022-765,Usman,Malik,f2022-765@bnu.edu.pk,Software Engineering,6
+F2022-771,Rabia,Malik,f2022-771@bnu.edu.pk,Management Business Computing,6
+F2022-773,Bilal,Farooq,f2022-773@bnu.edu.pk,Management Business Computing,6
+F2022-778,Shahid,Chaudhry,f2022-778@bnu.edu.pk,Management Business Computing,6
+F2022-779,Rabia,Chaudhry,f2022-779@bnu.edu.pk,Management Business Computing,6
+F2022-781,Iqra,Aslam,f2022-781@bnu.edu.pk,Software Engineering,6
+F2022-786,Hina,Hussain,f2022-786@bnu.edu.pk,Computer Science,6
+F2022-791,Saad,Aslam,f2022-791@bnu.edu.pk,Management Business Computing,6
+F2022-794,Junaid,Qureshi,f2022-794@bnu.edu.pk,Software Engineering,6
+F2022-796,Hina,Mehmood,f2022-796@bnu.edu.pk,Management Business Computing,6
+F2022-798,Fatima,Mehmood,f2022-798@bnu.edu.pk,Computer Science,6
+F2022-806,Fatima,Chaudhry,f2022-806@bnu.edu.pk,Management Business Computing,6
+F2022-808,Imran,Chaudhry,f2022-808@bnu.edu.pk,Management Business Computing,6
+F2022-810,Iqra,Anwar,f2022-810@bnu.edu.pk,Software Engineering,6
+F2022-811,Waqas,Mehmood,f2022-811@bnu.edu.pk,Computer Science,6
+F2022-827,Osama,Javed,f2022-827@bnu.edu.pk,Software Engineering,6
+F2022-829,Umair,Zahid,f2022-829@bnu.edu.pk,Computer Science,6
+F2022-831,Laiba,Aslam,f2022-831@bnu.edu.pk,Software Engineering,6
+F2022-832,Asma,Mirza,f2022-832@bnu.edu.pk,Computer Science,6
+F2022-833,Saad,Mehmood,f2022-833@bnu.edu.pk,Computer Science,6
+F2022-837,Kiran,Farooq,f2022-837@bnu.edu.pk,Computer Science,6
+F2022-848,Kiran,Mehmood,f2022-848@bnu.edu.pk,Software Engineering,6
+F2022-850,Emaan,Anwar,f2022-850@bnu.edu.pk,Management Business Computing,6
+F2022-852,Bilal,Farooq,f2022-852@bnu.edu.pk,Management Business Computing,6
+F2022-854,Saad,Aslam,f2022-854@bnu.edu.pk,Software Engineering,6
+F2022-874,Asma,Aslam,f2022-874@bnu.edu.pk,Management Business Computing,6
+F2022-876,Laiba,Javed,f2022-876@bnu.edu.pk,Software Engineering,6
+F2022-880,Ahsan,Khan,f2022-880@bnu.edu.pk,Computer Science,6
+F2022-881,Bilal,Javed,f2022-881@bnu.edu.pk,Management Business Computing,6
+F2022-883,Laiba,Anwar,f2022-883@bnu.edu.pk,Software Engineering,6
+F2022-885,Rabia,Mehmood,f2022-885@bnu.edu.pk,Management Business Computing,6
+F2022-889,Iqra,Qureshi,f2022-889@bnu.edu.pk,Management Business Computing,6
+F2022-895,Zara,Zahid,f2022-895@bnu.edu.pk,Computer Science,6
+F2022-896,Ali,Rana,f2022-896@bnu.edu.pk,Software Engineering,6
+F2022-898,Bilal,Sheikh,f2022-898@bnu.edu.pk,Software Engineering,6
+F2022-905,Rabia,Anwar,f2022-905@bnu.edu.pk,Computer Science,6
+F2022-906,Waqas,Rafiq,f2022-906@bnu.edu.pk,Software Engineering,6
+F2022-907,Tariq,Chaudhry,f2022-907@bnu.edu.pk,Software Engineering,6
+F2022-910,Kiran,Rafiq,f2022-910@bnu.edu.pk,Computer Science,6
+F2022-928,Umair,Farooq,f2022-928@bnu.edu.pk,Management Business Computing,6
+F2022-932,Bilal,Anwar,f2022-932@bnu.edu.pk,Software Engineering,6
+F2022-936,Nadia,Saeed,f2022-936@bnu.edu.pk,Software Engineering,6
+F2022-944,Hassan,Malik,f2022-944@bnu.edu.pk,Software Engineering,6
+F2022-954,Ahsan,Mehmood,f2022-954@bnu.edu.pk,Computer Science,6
+F2022-962,Rabia,Qureshi,f2022-962@bnu.edu.pk,Software Engineering,6
+F2022-970,Bilal,Qureshi,f2022-970@bnu.edu.pk,Computer Science,6
+F2022-972,Emaan,Aslam,f2022-972@bnu.edu.pk,Software Engineering,6
+F2022-975,Amina,Farooq,f2022-975@bnu.edu.pk,Management Business Computing,6
+F2022-977,Hassan,Mirza,f2022-977@bnu.edu.pk,Computer Science,6
+F2022-989,Fatima,Malik,f2022-989@bnu.edu.pk,Software Engineering,6
+F2022-991,Tariq,Nawaz,f2022-991@bnu.edu.pk,Management Business Computing,6
+F2022-993,Iqra,Javed,f2022-993@bnu.edu.pk,Software Engineering,6
+F2022-998,Yasir,Sheikh,f2022-998@bnu.edu.pk,Management Business Computing,6
+F2022-999,Sana,Anwar,f2022-999@bnu.edu.pk,Software Engineering,6
+F2023-007,Waqas,Ali,f2023-007@bnu.edu.pk,Software Engineering,4
+F2023-017,Tariq,Chaudhry,f2023-017@bnu.edu.pk,Software Engineering,4
+F2023-018,Kiran,Ahmed,f2023-018@bnu.edu.pk,Management Business Computing,4
+F2023-020,Asma,Hussain,f2023-020@bnu.edu.pk,Software Engineering,4
+F2023-023,Laiba,Malik,f2023-023@bnu.edu.pk,Software Engineering,4
+F2023-027,Fatima,Aslam,f2023-027@bnu.edu.pk,Management Business Computing,4
+F2023-033,Umair,Aslam,f2023-033@bnu.edu.pk,Management Business Computing,4
+F2023-035,Saad,Ali,f2023-035@bnu.edu.pk,Computer Science,4
+F2023-038,Amina,Rafiq,f2023-038@bnu.edu.pk,Software Engineering,4
+F2023-041,Junaid,Zahid,f2023-041@bnu.edu.pk,Computer Science,4
+F2023-044,Iqra,Rafiq,f2023-044@bnu.edu.pk,Management Business Computing,4
+F2023-047,Nadia,Ali,f2023-047@bnu.edu.pk,Computer Science,4
+F2023-053,Tariq,Hussain,f2023-053@bnu.edu.pk,Software Engineering,4
+F2023-060,Laiba,Tariq,f2023-060@bnu.edu.pk,Management Business Computing,4
+F2023-062,Laiba,Mirza,f2023-062@bnu.edu.pk,Management Business Computing,4
+F2023-064,Shahid,Javed,f2023-064@bnu.edu.pk,Management Business Computing,4
+F2023-069,Ali,Chaudhry,f2023-069@bnu.edu.pk,Computer Science,4
+F2023-070,Bilal,Javed,f2023-070@bnu.edu.pk,Management Business Computing,4
+F2023-076,Noman,Malik,f2023-076@bnu.edu.pk,Software Engineering,4
+F2023-077,Hassan,Ali,f2023-077@bnu.edu.pk,Management Business Computing,4
+F2023-079,Umair,Nawaz,f2023-079@bnu.edu.pk,Software Engineering,4
+F2023-081,Hassan,Nawaz,f2023-081@bnu.edu.pk,Software Engineering,4
+F2023-084,Ali,Ahmed,f2023-084@bnu.edu.pk,Computer Science,4
+F2023-089,Nadia,Mehmood,f2023-089@bnu.edu.pk,Software Engineering,4
+F2023-090,Zain,Rafiq,f2023-090@bnu.edu.pk,Management Business Computing,4
+F2023-093,Maha,Ahmed,f2023-093@bnu.edu.pk,Software Engineering,4
+F2023-095,Yasir,Mirza,f2023-095@bnu.edu.pk,Management Business Computing,4
+F2023-096,Rabia,Sheikh,f2023-096@bnu.edu.pk,Management Business Computing,4
+F2023-103,Fatima,Ali,f2023-103@bnu.edu.pk,Software Engineering,4
+F2023-104,Fatima,Hussain,f2023-104@bnu.edu.pk,Management Business Computing,4
+F2023-109,Nadia,Sheikh,f2023-109@bnu.edu.pk,Software Engineering,4
+F2023-120,Yasir,Saeed,f2023-120@bnu.edu.pk,Management Business Computing,4
+F2023-121,Zara,Sheikh,f2023-121@bnu.edu.pk,Software Engineering,4
+F2023-125,Nadia,Javed,f2023-125@bnu.edu.pk,Computer Science,4
+F2023-126,Fatima,Rafiq,f2023-126@bnu.edu.pk,Software Engineering,4
+F2023-137,Tariq,Mehmood,f2023-137@bnu.edu.pk,Computer Science,4
+F2023-138,Kiran,Sheikh,f2023-138@bnu.edu.pk,Software Engineering,4
+F2023-141,Shahid,Khan,f2023-141@bnu.edu.pk,Computer Science,4
+F2023-144,Zain,Saeed,f2023-144@bnu.edu.pk,Software Engineering,4
+F2023-145,Laiba,Javed,f2023-145@bnu.edu.pk,Computer Science,4
+F2023-148,Imran,Zahid,f2023-148@bnu.edu.pk,Software Engineering,4
+F2023-152,Rabia,Nawaz,f2023-152@bnu.edu.pk,Management Business Computing,4
+F2023-153,Nadia,Rafiq,f2023-153@bnu.edu.pk,Management Business Computing,4
+F2023-156,Imran,Qureshi,f2023-156@bnu.edu.pk,Software Engineering,4
+F2023-157,Bilal,Rana,f2023-157@bnu.edu.pk,Software Engineering,4
+F2023-162,Shahid,Ali,f2023-162@bnu.edu.pk,Software Engineering,4
+F2023-169,Noman,Chaudhry,f2023-169@bnu.edu.pk,Software Engineering,4
+F2023-174,Tariq,Mirza,f2023-174@bnu.edu.pk,Computer Science,4
+F2023-180,Osama,Hussain,f2023-180@bnu.edu.pk,Management Business Computing,4
+F2023-185,Hina,Qureshi,f2023-185@bnu.edu.pk,Computer Science,4
+F2023-189,Hina,Nawaz,f2023-189@bnu.edu.pk,Management Business Computing,4
+F2023-190,Sana,Aslam,f2023-190@bnu.edu.pk,Computer Science,4
+F2023-191,Junaid,Qureshi,f2023-191@bnu.edu.pk,Management Business Computing,4
+F2023-200,Osama,Sheikh,f2023-200@bnu.edu.pk,Software Engineering,4
+F2023-201,Kiran,Malik,f2023-201@bnu.edu.pk,Software Engineering,4
+F2023-205,Zara,Rana,f2023-205@bnu.edu.pk,Computer Science,4
+F2023-208,Zain,Saeed,f2023-208@bnu.edu.pk,Management Business Computing,4
+F2023-209,Fatima,Khan,f2023-209@bnu.edu.pk,Software Engineering,4
+F2023-210,Shahid,Zahid,f2023-210@bnu.edu.pk,Software Engineering,4
+F2023-220,Hassan,Rana,f2023-220@bnu.edu.pk,Computer Science,4
+F2023-224,Bilal,Ahmed,f2023-224@bnu.edu.pk,Management Business Computing,4
+F2023-227,Iqra,Zahid,f2023-227@bnu.edu.pk,Computer Science,4
+F2023-232,Ali,Saeed,f2023-232@bnu.edu.pk,Management Business Computing,4
+F2023-236,Zain,Saeed,f2023-236@bnu.edu.pk,Computer Science,4
+F2023-238,Ali,Aslam,f2023-238@bnu.edu.pk,Computer Science,4
+F2023-243,Usman,Chaudhry,f2023-243@bnu.edu.pk,Software Engineering,4
+F2023-246,Rabia,Tariq,f2023-246@bnu.edu.pk,Computer Science,4
+F2023-247,Asma,Aslam,f2023-247@bnu.edu.pk,Computer Science,4
+F2023-251,Shahid,Ali,f2023-251@bnu.edu.pk,Management Business Computing,4
+F2023-259,Rabia,Saeed,f2023-259@bnu.edu.pk,Software Engineering,4
+F2023-268,Noman,Mirza,f2023-268@bnu.edu.pk,Software Engineering,4
+F2023-272,Saad,Tariq,f2023-272@bnu.edu.pk,Management Business Computing,4
+F2023-278,Waqas,Sheikh,f2023-278@bnu.edu.pk,Management Business Computing,4
+F2023-280,Yasir,Mehmood,f2023-280@bnu.edu.pk,Computer Science,4
+F2023-286,Emaan,Javed,f2023-286@bnu.edu.pk,Management Business Computing,4
+F2023-292,Asma,Mehmood,f2023-292@bnu.edu.pk,Software Engineering,4
+F2023-293,Emaan,Zahid,f2023-293@bnu.edu.pk,Management Business Computing,4
+F2023-295,Hina,Ali,f2023-295@bnu.edu.pk,Management Business Computing,4
+F2023-297,Bilal,Saeed,f2023-297@bnu.edu.pk,Computer Science,4
+F2023-308,Shahid,Javed,f2023-308@bnu.edu.pk,Management Business Computing,4
+F2023-310,Waqas,Mehmood,f2023-310@bnu.edu.pk,Computer Science,4
+F2023-311,Yasir,Mehmood,f2023-311@bnu.edu.pk,Computer Science,4
+F2023-312,Nadia,Chaudhry,f2023-312@bnu.edu.pk,Computer Science,4
+F2023-315,Asma,Rafiq,f2023-315@bnu.edu.pk,Computer Science,4
+F2023-316,Kiran,Tariq,f2023-316@bnu.edu.pk,Management Business Computing,4
+F2023-324,Zain,Ali,f2023-324@bnu.edu.pk,Software Engineering,4
+F2023-325,Shahid,Rana,f2023-325@bnu.edu.pk,Software Engineering,4
+F2023-327,Zara,Zahid,f2023-327@bnu.edu.pk,Computer Science,4
+F2023-329,Noman,Malik,f2023-329@bnu.edu.pk,Computer Science,4
+F2023-340,Sana,Sheikh,f2023-340@bnu.edu.pk,Software Engineering,4
+F2023-346,Tariq,Zahid,f2023-346@bnu.edu.pk,Management Business Computing,4
+F2023-347,Iqra,Sheikh,f2023-347@bnu.edu.pk,Management Business Computing,4
+F2023-353,Sana,Saeed,f2023-353@bnu.edu.pk,Computer Science,4
+F2023-355,Fatima,Rafiq,f2023-355@bnu.edu.pk,Computer Science,4
+F2023-362,Emaan,Tariq,f2023-362@bnu.edu.pk,Computer Science,4
+F2023-363,Imran,Sheikh,f2023-363@bnu.edu.pk,Management Business Computing,4
+F2023-365,Maha,Javed,f2023-365@bnu.edu.pk,Management Business Computing,4
+F2023-366,Emaan,Malik,f2023-366@bnu.edu.pk,Computer Science,4
+F2023-371,Umair,Mirza,f2023-371@bnu.edu.pk,Software Engineering,4
+F2023-373,Saad,Nawaz,f2023-373@bnu.edu.pk,Management Business Computing,4
+F2023-375,Zain,Khan,f2023-375@bnu.edu.pk,Software Engineering,4
+F2023-380,Zara,Hussain,f2023-380@bnu.edu.pk,Software Engineering,4
+F2023-383,Tariq,Zahid,f2023-383@bnu.edu.pk,Software Engineering,4
+F2023-384,Umair,Qureshi,f2023-384@bnu.edu.pk,Software Engineering,4
+F2023-385,Laiba,Nawaz,f2023-385@bnu.edu.pk,Computer Science,4
+F2023-386,Sana,Rana,f2023-386@bnu.edu.pk,Software Engineering,4
+F2023-389,Kiran,Sheikh,f2023-389@bnu.edu.pk,Computer Science,4
+F2023-390,Umair,Malik,f2023-390@bnu.edu.pk,Software Engineering,4
+F2023-393,Ahsan,Khan,f2023-393@bnu.edu.pk,Computer Science,4
+F2023-408,Amina,Malik,f2023-408@bnu.edu.pk,Management Business Computing,4
+F2023-411,Iqra,Ali,f2023-411@bnu.edu.pk,Computer Science,4
+F2023-416,Umair,Ali,f2023-416@bnu.edu.pk,Software Engineering,4
+F2023-419,Imran,Qureshi,f2023-419@bnu.edu.pk,Computer Science,4
+F2023-421,Shahid,Hussain,f2023-421@bnu.edu.pk,Management Business Computing,4
+F2023-424,Sana,Saeed,f2023-424@bnu.edu.pk,Software Engineering,4
+F2023-427,Emaan,Tariq,f2023-427@bnu.edu.pk,Management Business Computing,4
+F2023-429,Yasir,Zahid,f2023-429@bnu.edu.pk,Computer Science,4
+F2023-434,Osama,Anwar,f2023-434@bnu.edu.pk,Software Engineering,4
+F2023-442,Yasir,Aslam,f2023-442@bnu.edu.pk,Computer Science,4
+F2023-444,Dua,Chaudhry,f2023-444@bnu.edu.pk,Management Business Computing,4
+F2023-448,Usman,Mirza,f2023-448@bnu.edu.pk,Software Engineering,4
+F2023-450,Ali,Nawaz,f2023-450@bnu.edu.pk,Computer Science,4
+F2023-453,Amina,Mirza,f2023-453@bnu.edu.pk,Management Business Computing,4
+F2023-457,Zain,Saeed,f2023-457@bnu.edu.pk,Computer Science,4
+F2023-461,Saad,Anwar,f2023-461@bnu.edu.pk,Software Engineering,4
+F2023-463,Bilal,Anwar,f2023-463@bnu.edu.pk,Computer Science,4
+F2023-465,Junaid,Malik,f2023-465@bnu.edu.pk,Computer Science,4
+F2023-472,Tariq,Rana,f2023-472@bnu.edu.pk,Computer Science,4
+F2023-476,Kiran,Rana,f2023-476@bnu.edu.pk,Computer Science,4
+F2023-478,Nadia,Rana,f2023-478@bnu.edu.pk,Computer Science,4
+F2023-483,Shahid,Sheikh,f2023-483@bnu.edu.pk,Management Business Computing,4
+F2023-484,Zara,Anwar,f2023-484@bnu.edu.pk,Computer Science,4
+F2023-487,Zain,Tariq,f2023-487@bnu.edu.pk,Software Engineering,4
+F2023-488,Junaid,Sheikh,f2023-488@bnu.edu.pk,Computer Science,4
+F2023-489,Kiran,Rana,f2023-489@bnu.edu.pk,Management Business Computing,4
+F2023-491,Noman,Hussain,f2023-491@bnu.edu.pk,Computer Science,4
+F2023-495,Saad,Zahid,f2023-495@bnu.edu.pk,Management Business Computing,4
+F2023-501,Emaan,Tariq,f2023-501@bnu.edu.pk,Computer Science,4
+F2023-507,Ali,Malik,f2023-507@bnu.edu.pk,Management Business Computing,4
+F2023-508,Kiran,Sheikh,f2023-508@bnu.edu.pk,Computer Science,4
+F2023-509,Imran,Farooq,f2023-509@bnu.edu.pk,Management Business Computing,4
+F2023-510,Saad,Ahmed,f2023-510@bnu.edu.pk,Management Business Computing,4
+F2023-511,Emaan,Farooq,f2023-511@bnu.edu.pk,Management Business Computing,4
+F2023-517,Zain,Chaudhry,f2023-517@bnu.edu.pk,Software Engineering,4
+F2023-520,Osama,Mehmood,f2023-520@bnu.edu.pk,Management Business Computing,4
+F2023-522,Emaan,Zahid,f2023-522@bnu.edu.pk,Software Engineering,4
+F2023-526,Laiba,Chaudhry,f2023-526@bnu.edu.pk,Software Engineering,4
+F2023-531,Dua,Rana,f2023-531@bnu.edu.pk,Software Engineering,4
+F2023-537,Saad,Sheikh,f2023-537@bnu.edu.pk,Software Engineering,4
+F2023-539,Tariq,Rana,f2023-539@bnu.edu.pk,Software Engineering,4
+F2023-541,Nadia,Rafiq,f2023-541@bnu.edu.pk,Management Business Computing,4
+F2023-543,Osama,Chaudhry,f2023-543@bnu.edu.pk,Software Engineering,4
+F2023-545,Maha,Ahmed,f2023-545@bnu.edu.pk,Management Business Computing,4
+F2023-549,Tariq,Khan,f2023-549@bnu.edu.pk,Software Engineering,4
+F2023-550,Zain,Rana,f2023-550@bnu.edu.pk,Computer Science,4
+F2023-551,Asma,Farooq,f2023-551@bnu.edu.pk,Software Engineering,4
+F2023-555,Shahid,Anwar,f2023-555@bnu.edu.pk,Computer Science,4
+F2023-564,Shahid,Anwar,f2023-564@bnu.edu.pk,Management Business Computing,4
+F2023-566,Zara,Javed,f2023-566@bnu.edu.pk,Software Engineering,4
+F2023-568,Ahsan,Mirza,f2023-568@bnu.edu.pk,Management Business Computing,4
+F2023-571,Hassan,Ali,f2023-571@bnu.edu.pk,Management Business Computing,4
+F2023-575,Nadia,Hussain,f2023-575@bnu.edu.pk,Software Engineering,4
+F2023-576,Zara,Ali,f2023-576@bnu.edu.pk,Software Engineering,4
+F2023-577,Kiran,Ali,f2023-577@bnu.edu.pk,Computer Science,4
+F2023-578,Zain,Sheikh,f2023-578@bnu.edu.pk,Management Business Computing,4
+F2023-579,Junaid,Rafiq,f2023-579@bnu.edu.pk,Computer Science,4
+F2023-580,Saad,Mehmood,f2023-580@bnu.edu.pk,Computer Science,4
+F2023-581,Dua,Tariq,f2023-581@bnu.edu.pk,Software Engineering,4
+F2023-582,Ahsan,Malik,f2023-582@bnu.edu.pk,Management Business Computing,4
+F2023-584,Fatima,Nawaz,f2023-584@bnu.edu.pk,Computer Science,4
+F2023-587,Fatima,Ali,f2023-587@bnu.edu.pk,Management Business Computing,4
+F2023-588,Hassan,Malik,f2023-588@bnu.edu.pk,Management Business Computing,4
+F2023-592,Hassan,Tariq,f2023-592@bnu.edu.pk,Computer Science,4
+F2023-594,Noman,Tariq,f2023-594@bnu.edu.pk,Management Business Computing,4
+F2023-598,Tariq,Ali,f2023-598@bnu.edu.pk,Software Engineering,4
+F2023-602,Ahsan,Hussain,f2023-602@bnu.edu.pk,Computer Science,4
+F2023-607,Saad,Farooq,f2023-607@bnu.edu.pk,Management Business Computing,4
+F2023-612,Yasir,Ahmed,f2023-612@bnu.edu.pk,Software Engineering,4
+F2023-613,Ali,Rafiq,f2023-613@bnu.edu.pk,Management Business Computing,4
+F2023-617,Amina,Qureshi,f2023-617@bnu.edu.pk,Computer Science,4
+F2023-618,Hina,Rafiq,f2023-618@bnu.edu.pk,Management Business Computing,4
+F2023-620,Osama,Ali,f2023-620@bnu.edu.pk,Computer Science,4
+F2023-625,Umair,Khan,f2023-625@bnu.edu.pk,Software Engineering,4
+F2023-630,Yasir,Mirza,f2023-630@bnu.edu.pk,Software Engineering,4
+F2023-641,Hassan,Chaudhry,f2023-641@bnu.edu.pk,Software Engineering,4
+F2023-642,Zain,Farooq,f2023-642@bnu.edu.pk,Management Business Computing,4
+F2023-645,Dua,Saeed,f2023-645@bnu.edu.pk,Management Business Computing,4
+F2023-651,Hassan,Hussain,f2023-651@bnu.edu.pk,Management Business Computing,4
+F2023-655,Umair,Malik,f2023-655@bnu.edu.pk,Software Engineering,4
+F2023-656,Zain,Sheikh,f2023-656@bnu.edu.pk,Management Business Computing,4
+F2023-658,Noman,Malik,f2023-658@bnu.edu.pk,Software Engineering,4
+F2023-662,Emaan,Malik,f2023-662@bnu.edu.pk,Computer Science,4
+F2023-666,Junaid,Mehmood,f2023-666@bnu.edu.pk,Software Engineering,4
+F2023-668,Zara,Anwar,f2023-668@bnu.edu.pk,Management Business Computing,4
+F2023-670,Ahsan,Khan,f2023-670@bnu.edu.pk,Software Engineering,4
+F2023-671,Maha,Sheikh,f2023-671@bnu.edu.pk,Management Business Computing,4
+F2023-675,Bilal,Farooq,f2023-675@bnu.edu.pk,Management Business Computing,4
+F2023-677,Amina,Mehmood,f2023-677@bnu.edu.pk,Software Engineering,4
+F2023-684,Yasir,Mehmood,f2023-684@bnu.edu.pk,Software Engineering,4
+F2023-690,Iqra,Mehmood,f2023-690@bnu.edu.pk,Computer Science,4
+F2023-695,Bilal,Zahid,f2023-695@bnu.edu.pk,Software Engineering,4
+F2023-697,Hassan,Zahid,f2023-697@bnu.edu.pk,Management Business Computing,4
+F2023-698,Imran,Rana,f2023-698@bnu.edu.pk,Computer Science,4
+F2023-701,Ali,Anwar,f2023-701@bnu.edu.pk,Software Engineering,4
+F2023-706,Umair,Chaudhry,f2023-706@bnu.edu.pk,Management Business Computing,4
+F2023-707,Kiran,Farooq,f2023-707@bnu.edu.pk,Software Engineering,4
+F2023-713,Dua,Rafiq,f2023-713@bnu.edu.pk,Software Engineering,4
+F2023-720,Saad,Ahmed,f2023-720@bnu.edu.pk,Computer Science,4
+F2023-721,Umair,Khan,f2023-721@bnu.edu.pk,Software Engineering,4
+F2023-722,Umair,Malik,f2023-722@bnu.edu.pk,Computer Science,4
+F2023-723,Yasir,Ali,f2023-723@bnu.edu.pk,Computer Science,4
+F2023-726,Noman,Rana,f2023-726@bnu.edu.pk,Management Business Computing,4
+F2023-736,Saad,Khan,f2023-736@bnu.edu.pk,Computer Science,4
+F2023-737,Hina,Rafiq,f2023-737@bnu.edu.pk,Management Business Computing,4
+F2023-739,Zara,Tariq,f2023-739@bnu.edu.pk,Software Engineering,4
+F2023-741,Hina,Tariq,f2023-741@bnu.edu.pk,Management Business Computing,4
+F2023-742,Emaan,Tariq,f2023-742@bnu.edu.pk,Management Business Computing,4
+F2023-745,Hassan,Anwar,f2023-745@bnu.edu.pk,Software Engineering,4
+F2023-746,Nadia,Chaudhry,f2023-746@bnu.edu.pk,Computer Science,4
+F2023-749,Imran,Farooq,f2023-749@bnu.edu.pk,Software Engineering,4
+F2023-752,Yasir,Mehmood,f2023-752@bnu.edu.pk,Software Engineering,4
+F2023-757,Fatima,Sheikh,f2023-757@bnu.edu.pk,Management Business Computing,4
+F2023-758,Junaid,Zahid,f2023-758@bnu.edu.pk,Software Engineering,4
+F2023-764,Hassan,Ahmed,f2023-764@bnu.edu.pk,Computer Science,4
+F2023-772,Maha,Khan,f2023-772@bnu.edu.pk,Management Business Computing,4
+F2023-773,Noman,Hussain,f2023-773@bnu.edu.pk,Computer Science,4
+F2023-774,Noman,Mirza,f2023-774@bnu.edu.pk,Computer Science,4
+F2023-775,Waqas,Ahmed,f2023-775@bnu.edu.pk,Computer Science,4
+F2023-779,Junaid,Chaudhry,f2023-779@bnu.edu.pk,Software Engineering,4
+F2023-780,Usman,Rana,f2023-780@bnu.edu.pk,Software Engineering,4
+F2023-781,Usman,Hussain,f2023-781@bnu.edu.pk,Computer Science,4
+F2023-782,Iqra,Rafiq,f2023-782@bnu.edu.pk,Computer Science,4
+F2023-783,Nadia,Rafiq,f2023-783@bnu.edu.pk,Management Business Computing,4
+F2023-785,Kiran,Zahid,f2023-785@bnu.edu.pk,Computer Science,4
+F2023-788,Imran,Zahid,f2023-788@bnu.edu.pk,Management Business Computing,4
+F2023-792,Waqas,Tariq,f2023-792@bnu.edu.pk,Management Business Computing,4
+F2023-803,Ahsan,Khan,f2023-803@bnu.edu.pk,Software Engineering,4
+F2023-805,Iqra,Nawaz,f2023-805@bnu.edu.pk,Management Business Computing,4
+F2023-807,Waqas,Nawaz,f2023-807@bnu.edu.pk,Software Engineering,4
+F2023-810,Ahsan,Mehmood,f2023-810@bnu.edu.pk,Software Engineering,4
+F2023-811,Emaan,Ali,f2023-811@bnu.edu.pk,Computer Science,4
+F2023-813,Shahid,Farooq,f2023-813@bnu.edu.pk,Software Engineering,4
+F2023-814,Junaid,Mirza,f2023-814@bnu.edu.pk,Software Engineering,4
+F2023-823,Iqra,Rafiq,f2023-823@bnu.edu.pk,Management Business Computing,4
+F2023-824,Bilal,Mehmood,f2023-824@bnu.edu.pk,Software Engineering,4
+F2023-825,Maha,Javed,f2023-825@bnu.edu.pk,Management Business Computing,4
+F2023-826,Hina,Chaudhry,f2023-826@bnu.edu.pk,Software Engineering,4
+F2023-829,Hassan,Hussain,f2023-829@bnu.edu.pk,Computer Science,4
+F2023-831,Saad,Farooq,f2023-831@bnu.edu.pk,Computer Science,4
+F2023-833,Ahsan,Saeed,f2023-833@bnu.edu.pk,Management Business Computing,4
+F2023-834,Yasir,Farooq,f2023-834@bnu.edu.pk,Software Engineering,4
+F2023-835,Nadia,Nawaz,f2023-835@bnu.edu.pk,Management Business Computing,4
+F2023-836,Hina,Rana,f2023-836@bnu.edu.pk,Computer Science,4
+F2023-842,Imran,Khan,f2023-842@bnu.edu.pk,Software Engineering,4
+F2023-844,Umair,Qureshi,f2023-844@bnu.edu.pk,Management Business Computing,4
+F2023-847,Yasir,Nawaz,f2023-847@bnu.edu.pk,Software Engineering,4
+F2023-849,Asma,Ali,f2023-849@bnu.edu.pk,Management Business Computing,4
+F2023-852,Zara,Ali,f2023-852@bnu.edu.pk,Computer Science,4
+F2023-866,Amina,Rana,f2023-866@bnu.edu.pk,Software Engineering,4
+F2023-867,Zain,Malik,f2023-867@bnu.edu.pk,Computer Science,4
+F2023-870,Maha,Javed,f2023-870@bnu.edu.pk,Computer Science,4
+F2023-871,Ali,Farooq,f2023-871@bnu.edu.pk,Software Engineering,4
+F2023-872,Hina,Malik,f2023-872@bnu.edu.pk,Computer Science,4
+F2023-879,Waqas,Anwar,f2023-879@bnu.edu.pk,Management Business Computing,4
+F2023-881,Sana,Sheikh,f2023-881@bnu.edu.pk,Software Engineering,4
+F2023-895,Sana,Zahid,f2023-895@bnu.edu.pk,Computer Science,4
+F2023-898,Dua,Malik,f2023-898@bnu.edu.pk,Computer Science,4
+F2023-901,Laiba,Rana,f2023-901@bnu.edu.pk,Software Engineering,4
+F2023-906,Bilal,Zahid,f2023-906@bnu.edu.pk,Computer Science,4
+F2023-917,Tariq,Rafiq,f2023-917@bnu.edu.pk,Software Engineering,4
+F2023-918,Noman,Nawaz,f2023-918@bnu.edu.pk,Software Engineering,4
+F2023-935,Dua,Rafiq,f2023-935@bnu.edu.pk,Management Business Computing,4
+F2023-936,Yasir,Ali,f2023-936@bnu.edu.pk,Computer Science,4
+F2023-937,Asma,Rana,f2023-937@bnu.edu.pk,Computer Science,4
+F2023-939,Tariq,Sheikh,f2023-939@bnu.edu.pk,Management Business Computing,4
+F2023-940,Iqra,Anwar,f2023-940@bnu.edu.pk,Management Business Computing,4
+F2023-942,Kiran,Farooq,f2023-942@bnu.edu.pk,Computer Science,4
+F2023-943,Umair,Zahid,f2023-943@bnu.edu.pk,Software Engineering,4
+F2023-945,Saad,Anwar,f2023-945@bnu.edu.pk,Software Engineering,4
+F2023-946,Junaid,Saeed,f2023-946@bnu.edu.pk,Management Business Computing,4
+F2023-947,Maha,Mirza,f2023-947@bnu.edu.pk,Management Business Computing,4
+F2023-952,Ahsan,Sheikh,f2023-952@bnu.edu.pk,Computer Science,4
+F2023-957,Iqra,Sheikh,f2023-957@bnu.edu.pk,Management Business Computing,4
+F2023-958,Dua,Mehmood,f2023-958@bnu.edu.pk,Management Business Computing,4
+F2023-959,Maha,Mehmood,f2023-959@bnu.edu.pk,Computer Science,4
+F2023-960,Hassan,Hussain,f2023-960@bnu.edu.pk,Management Business Computing,4
+F2023-963,Sana,Qureshi,f2023-963@bnu.edu.pk,Computer Science,4
+F2023-965,Hina,Javed,f2023-965@bnu.edu.pk,Software Engineering,4
+F2023-969,Ali,Malik,f2023-969@bnu.edu.pk,Software Engineering,4
+F2023-971,Fatima,Mirza,f2023-971@bnu.edu.pk,Management Business Computing,4
+F2023-972,Sana,Rafiq,f2023-972@bnu.edu.pk,Software Engineering,4
+F2023-976,Usman,Farooq,f2023-976@bnu.edu.pk,Computer Science,4
+F2023-977,Laiba,Khan,f2023-977@bnu.edu.pk,Software Engineering,4
+F2023-978,Waqas,Mirza,f2023-978@bnu.edu.pk,Computer Science,4
+F2023-986,Emaan,Hussain,f2023-986@bnu.edu.pk,Management Business Computing,4
+F2023-990,Nadia,Rafiq,f2023-990@bnu.edu.pk,Computer Science,4
+F2023-993,Rabia,Nawaz,f2023-993@bnu.edu.pk,Software Engineering,4
+F2023-996,Amina,Chaudhry,f2023-996@bnu.edu.pk,Software Engineering,4
+F2023-998,Amina,Saeed,f2023-998@bnu.edu.pk,Software Engineering,4
+F2023-999,Asma,Chaudhry,f2023-999@bnu.edu.pk,Computer Science,4
+F2024-0003,Shahid,Aslam,f2024-0003@bnu.edu.pk,Computer Science,2
+F2024-0008,Ali,Mirza,f2024-0008@bnu.edu.pk,Software Engineering,2
+F2024-0010,Kiran,Nawaz,f2024-0010@bnu.edu.pk,Management Business Computing,2
+F2024-0020,Yasir,Mirza,f2024-0020@bnu.edu.pk,Software Engineering,2
+F2024-0024,Shahid,Chaudhry,f2024-0024@bnu.edu.pk,Computer Science,2
+F2024-0026,Nadia,Rafiq,f2024-0026@bnu.edu.pk,Management Business Computing,2
+F2024-0029,Emaan,Mirza,f2024-0029@bnu.edu.pk,Software Engineering,2
+F2024-0034,Saad,Rafiq,f2024-0034@bnu.edu.pk,Computer Science,2
+F2024-0040,Usman,Sheikh,f2024-0040@bnu.edu.pk,Software Engineering,2
+F2024-0041,Rabia,Javed,f2024-0041@bnu.edu.pk,Management Business Computing,2
+F2024-0042,Kiran,Saeed,f2024-0042@bnu.edu.pk,Management Business Computing,2
+F2024-0045,Zara,Anwar,f2024-0045@bnu.edu.pk,Computer Science,2
+F2024-0047,Ali,Aslam,f2024-0047@bnu.edu.pk,Software Engineering,2
+F2024-0056,Umair,Sheikh,f2024-0056@bnu.edu.pk,Management Business Computing,2
+F2024-0057,Waqas,Anwar,f2024-0057@bnu.edu.pk,Software Engineering,2
+F2024-0058,Usman,Mirza,f2024-0058@bnu.edu.pk,Management Business Computing,2
+F2024-0060,Sana,Qureshi,f2024-0060@bnu.edu.pk,Management Business Computing,2
+F2024-0061,Junaid,Rana,f2024-0061@bnu.edu.pk,Software Engineering,2
+F2024-0064,Amina,Tariq,f2024-0064@bnu.edu.pk,Computer Science,2
+F2024-0067,Junaid,Tariq,f2024-0067@bnu.edu.pk,Computer Science,2
+F2024-0071,Laiba,Chaudhry,f2024-0071@bnu.edu.pk,Management Business Computing,2
+F2024-0078,Maha,Nawaz,f2024-0078@bnu.edu.pk,Management Business Computing,2
+F2024-0080,Shahid,Nawaz,f2024-0080@bnu.edu.pk,Software Engineering,2
+F2024-0082,Hassan,Hussain,f2024-0082@bnu.edu.pk,Computer Science,2
+F2024-0091,Nadia,Ahmed,f2024-0091@bnu.edu.pk,Computer Science,2
+F2024-0095,Umair,Ali,f2024-0095@bnu.edu.pk,Computer Science,2
+F2024-0099,Tariq,Ahmed,f2024-0099@bnu.edu.pk,Software Engineering,2
+F2024-0101,Junaid,Saeed,f2024-0101@bnu.edu.pk,Management Business Computing,2
+F2024-0107,Sana,Farooq,f2024-0107@bnu.edu.pk,Software Engineering,2
+F2024-0114,Nadia,Mirza,f2024-0114@bnu.edu.pk,Software Engineering,2
+F2024-0116,Ali,Anwar,f2024-0116@bnu.edu.pk,Computer Science,2
+F2024-0117,Umair,Javed,f2024-0117@bnu.edu.pk,Management Business Computing,2
+F2024-0119,Kiran,Javed,f2024-0119@bnu.edu.pk,Computer Science,2
+F2024-0120,Ahsan,Khan,f2024-0120@bnu.edu.pk,Software Engineering,2
+F2024-0122,Bilal,Qureshi,f2024-0122@bnu.edu.pk,Software Engineering,2
+F2024-0123,Kiran,Rana,f2024-0123@bnu.edu.pk,Computer Science,2
+F2024-0130,Saad,Mirza,f2024-0130@bnu.edu.pk,Management Business Computing,2
+F2024-0131,Asma,Rana,f2024-0131@bnu.edu.pk,Software Engineering,2
+F2024-0138,Tariq,Rafiq,f2024-0138@bnu.edu.pk,Software Engineering,2
+F2024-0139,Ahsan,Tariq,f2024-0139@bnu.edu.pk,Computer Science,2
+F2024-0144,Mahira,Ali,f2024-0144@bnu.edu.pk,Computer Science,2
+F2024-0149,Yasir,Mirza,f2024-0149@bnu.edu.pk,Software Engineering,2
+F2024-0152,Imran,Khan,f2024-0152@bnu.edu.pk,Software Engineering,2
+F2024-0153,Hassan,Javed,f2024-0153@bnu.edu.pk,Computer Science,2
+F2024-0154,Bilal,Nawaz,f2024-0154@bnu.edu.pk,Management Business Computing,2
+F2024-0160,Bilal,Mehmood,f2024-0160@bnu.edu.pk,Computer Science,2
+F2024-0161,Ali,Qureshi,f2024-0161@bnu.edu.pk,Management Business Computing,2
+F2024-0162,Amina,Malik,f2024-0162@bnu.edu.pk,Management Business Computing,2
+F2024-0169,Iqra,Khan,f2024-0169@bnu.edu.pk,Software Engineering,2
+F2024-0176,Osama,Nawaz,f2024-0176@bnu.edu.pk,Management Business Computing,2
+F2024-0178,Laiba,Hussain,f2024-0178@bnu.edu.pk,Computer Science,2
+F2024-0179,Asma,Chaudhry,f2024-0179@bnu.edu.pk,Computer Science,2
+F2024-0180,Maha,Ali,f2024-0180@bnu.edu.pk,Software Engineering,2
+F2024-0188,Iqra,Aslam,f2024-0188@bnu.edu.pk,Computer Science,2
+F2024-0191,Shahid,Khan,f2024-0191@bnu.edu.pk,Computer Science,2
+F2024-0192,Dua,Khan,f2024-0192@bnu.edu.pk,Management Business Computing,2
+F2024-0194,Noman,Javed,f2024-0194@bnu.edu.pk,Software Engineering,2
+F2024-0196,Amina,Tariq,f2024-0196@bnu.edu.pk,Management Business Computing,2
+F2024-0200,Iqra,Rana,f2024-0200@bnu.edu.pk,Software Engineering,2
+F2024-0202,Asma,Ahmed,f2024-0202@bnu.edu.pk,Software Engineering,2
+F2024-0206,Osama,Tariq,f2024-0206@bnu.edu.pk,Computer Science,2
+F2024-0207,Shahid,Nawaz,f2024-0207@bnu.edu.pk,Software Engineering,2
+F2024-0208,Dua,Ali,f2024-0208@bnu.edu.pk,Software Engineering,2
+F2024-0210,Junaid,Anwar,f2024-0210@bnu.edu.pk,Computer Science,2
+F2024-0212,Nadia,Qureshi,f2024-0212@bnu.edu.pk,Computer Science,2
+F2024-0214,Saad,Tariq,f2024-0214@bnu.edu.pk,Software Engineering,2
+F2024-0215,Ahsan,Rana,f2024-0215@bnu.edu.pk,Software Engineering,2
+F2024-0220,Emaan,Rafiq,f2024-0220@bnu.edu.pk,Computer Science,2
+F2024-0224,Bilal,Tariq,f2024-0224@bnu.edu.pk,Computer Science,2
+F2024-0228,Shahid,Chaudhry,f2024-0228@bnu.edu.pk,Management Business Computing,2
+F2024-0234,Junaid,Tariq,f2024-0234@bnu.edu.pk,Software Engineering,2
+F2024-0238,Kiran,Anwar,f2024-0238@bnu.edu.pk,Management Business Computing,2
+F2024-0240,Fatima,Malik,f2024-0240@bnu.edu.pk,Computer Science,2
+F2024-0242,Bilal,Khan,f2024-0242@bnu.edu.pk,Computer Science,2
+F2024-0245,Tariq,Farooq,f2024-0245@bnu.edu.pk,Computer Science,2
+F2024-0246,Laiba,Khan,f2024-0246@bnu.edu.pk,Computer Science,2
+F2024-0249,Asma,Chaudhry,f2024-0249@bnu.edu.pk,Computer Science,2
+F2024-0251,Zain,Mehmood,f2024-0251@bnu.edu.pk,Computer Science,2
+F2024-0261,Tariq,Malik,f2024-0261@bnu.edu.pk,Computer Science,2
+F2024-0263,Asma,Rana,f2024-0263@bnu.edu.pk,Management Business Computing,2
+F2024-0264,Emaan,Rafiq,f2024-0264@bnu.edu.pk,Computer Science,2
+F2024-0266,Maha,Anwar,f2024-0266@bnu.edu.pk,Management Business Computing,2
+F2024-0268,Ali,Javed,f2024-0268@bnu.edu.pk,Computer Science,2
+F2024-0271,Iqra,Mehmood,f2024-0271@bnu.edu.pk,Software Engineering,2
+F2024-0272,Maha,Anwar,f2024-0272@bnu.edu.pk,Management Business Computing,2
+F2024-0276,Asma,Javed,f2024-0276@bnu.edu.pk,Software Engineering,2
+F2024-0280,Hina,Mehmood,f2024-0280@bnu.edu.pk,Computer Science,2
+F2024-0282,Yasir,Chaudhry,f2024-0282@bnu.edu.pk,Computer Science,2
+F2024-0283,Kiran,Zahid,f2024-0283@bnu.edu.pk,Management Business Computing,2
+F2024-0288,Maha,Malik,f2024-0288@bnu.edu.pk,Computer Science,2
+F2024-0303,Dua,Mehmood,f2024-0303@bnu.edu.pk,Management Business Computing,2
+F2024-0305,Abdullah,Ismail,f2024-0305@bnu.edu.pk,Computer Science,2
+F2024-0308,Saad,Malik,f2024-0308@bnu.edu.pk,Management Business Computing,2
+F2024-0309,Osama,Saeed,f2024-0309@bnu.edu.pk,Software Engineering,2
+F2024-0313,Noman,Zahid,f2024-0313@bnu.edu.pk,Software Engineering,2
+F2024-0316,Amina,Khan,f2024-0316@bnu.edu.pk,Software Engineering,2
+F2024-0319,Zara,Hussain,f2024-0319@bnu.edu.pk,Management Business Computing,2
+F2024-0330,Dua,Nawaz,f2024-0330@bnu.edu.pk,Management Business Computing,2
+F2024-0337,Ahsan,Zahid,f2024-0337@bnu.edu.pk,Software Engineering,2
+F2024-0340,Saad,Qureshi,f2024-0340@bnu.edu.pk,Management Business Computing,2
+F2024-0341,Laiba,Qureshi,f2024-0341@bnu.edu.pk,Software Engineering,2
+F2024-0342,Usman,Khan,f2024-0342@bnu.edu.pk,Software Engineering,2
+F2024-0343,Bilal,Anwar,f2024-0343@bnu.edu.pk,Software Engineering,2
+F2024-0344,Iqra,Mehmood,f2024-0344@bnu.edu.pk,Management Business Computing,2
+F2024-0345,Noman,Malik,f2024-0345@bnu.edu.pk,Software Engineering,2
+F2024-0348,Dua,Nawaz,f2024-0348@bnu.edu.pk,Computer Science,2
+F2024-0349,Nadia,Malik,f2024-0349@bnu.edu.pk,Management Business Computing,2
+F2024-0350,Ahsan,Hussain,f2024-0350@bnu.edu.pk,Management Business Computing,2
+F2024-0354,Sana,Qureshi,f2024-0354@bnu.edu.pk,Software Engineering,2
+F2024-0355,Ahsan,Rana,f2024-0355@bnu.edu.pk,Management Business Computing,2
+F2024-0357,Hina,Khan,f2024-0357@bnu.edu.pk,Computer Science,2
+F2024-0360,Noman,Malik,f2024-0360@bnu.edu.pk,Software Engineering,2
+F2024-0367,Junaid,Chaudhry,f2024-0367@bnu.edu.pk,Computer Science,2
+F2024-0369,Osama,Sheikh,f2024-0369@bnu.edu.pk,Management Business Computing,2
+F2024-0371,Zain,Sheikh,f2024-0371@bnu.edu.pk,Software Engineering,2
+F2024-0375,Hassan,Sheikh,f2024-0375@bnu.edu.pk,Management Business Computing,2
+F2024-0381,Junaid,Qureshi,f2024-0381@bnu.edu.pk,Software Engineering,2
+F2024-0382,Saad,Farooq,f2024-0382@bnu.edu.pk,Management Business Computing,2
+F2024-0383,Usman,Sheikh,f2024-0383@bnu.edu.pk,Software Engineering,2
+F2024-0386,Bilal,Tariq,f2024-0386@bnu.edu.pk,Software Engineering,2
+F2024-0387,Rabia,Saeed,f2024-0387@bnu.edu.pk,Management Business Computing,2
+F2024-0395,Dua,Hussain,f2024-0395@bnu.edu.pk,Computer Science,2
+F2024-0399,Amina,Rana,f2024-0399@bnu.edu.pk,Management Business Computing,2
+F2024-0408,Zara,Mirza,f2024-0408@bnu.edu.pk,Software Engineering,2
+F2024-0409,Rabia,Rana,f2024-0409@bnu.edu.pk,Computer Science,2
+F2024-0411,Ahsan,Mirza,f2024-0411@bnu.edu.pk,Software Engineering,2
+F2024-0412,Ahsan,Farooq,f2024-0412@bnu.edu.pk,Computer Science,2
+F2024-0415,Ahsan,Qureshi,f2024-0415@bnu.edu.pk,Management Business Computing,2
+F2024-0421,Ahsan,Malik,f2024-0421@bnu.edu.pk,Management Business Computing,2
+F2024-0424,Bilal,Hussain,f2024-0424@bnu.edu.pk,Computer Science,2
+F2024-0430,Umair,Javed,f2024-0430@bnu.edu.pk,Management Business Computing,2
+F2024-0439,Ali,Farooq,f2024-0439@bnu.edu.pk,Computer Science,2
+F2024-0441,Rabia,Ali,f2024-0441@bnu.edu.pk,Software Engineering,2
+F2024-0453,Osama,Tariq,f2024-0453@bnu.edu.pk,Software Engineering,2
+F2024-0458,Fatima,Mirza,f2024-0458@bnu.edu.pk,Management Business Computing,2
+F2024-0459,Usman,Ahmed,f2024-0459@bnu.edu.pk,Software Engineering,2
+F2024-0460,Noman,Qureshi,f2024-0460@bnu.edu.pk,Software Engineering,2
+F2024-0466,Usman,Sheikh,f2024-0466@bnu.edu.pk,Management Business Computing,2
+F2024-0468,Tariq,Aslam,f2024-0468@bnu.edu.pk,Management Business Computing,2
+F2024-0475,Kiran,Rafiq,f2024-0475@bnu.edu.pk,Software Engineering,2
+F2024-0483,Noman,Rana,f2024-0483@bnu.edu.pk,Software Engineering,2
+F2024-0487,Hina,Malik,f2024-0487@bnu.edu.pk,Computer Science,2
+F2024-0504,Rabia,Zahid,f2024-0504@bnu.edu.pk,Management Business Computing,2
+F2024-0508,Dua,Aslam,f2024-0508@bnu.edu.pk,Management Business Computing,2
+F2024-0509,Bilal,Anwar,f2024-0509@bnu.edu.pk,Software Engineering,2
+F2024-0511,Saad,Saeed,f2024-0511@bnu.edu.pk,Management Business Computing,2
+F2024-0512,Hassan,Hussain,f2024-0512@bnu.edu.pk,Management Business Computing,2
+F2024-0526,Amina,Mirza,f2024-0526@bnu.edu.pk,Computer Science,2
+F2024-0529,Waqas,Zahid,f2024-0529@bnu.edu.pk,Software Engineering,2
+F2024-0530,Iqra,Farooq,f2024-0530@bnu.edu.pk,Management Business Computing,2
+F2024-0544,Noman,Sheikh,f2024-0544@bnu.edu.pk,Management Business Computing,2
+F2024-0549,Asma,Tariq,f2024-0549@bnu.edu.pk,Management Business Computing,2
+F2024-0550,Hassan,Malik,f2024-0550@bnu.edu.pk,Software Engineering,2
+F2024-0551,Ali,Rana,f2024-0551@bnu.edu.pk,Software Engineering,2
+F2024-0552,Saad,Javed,f2024-0552@bnu.edu.pk,Management Business Computing,2
+F2024-0554,Nadia,Mehmood,f2024-0554@bnu.edu.pk,Computer Science,2
+F2024-0558,Imran,Qureshi,f2024-0558@bnu.edu.pk,Management Business Computing,2
+F2024-0561,Ahsan,Rafiq,f2024-0561@bnu.edu.pk,Computer Science,2
+F2024-0563,Hina,Ali,f2024-0563@bnu.edu.pk,Computer Science,2
+F2024-0564,Emaan,Farooq,f2024-0564@bnu.edu.pk,Software Engineering,2
+F2024-0565,Ali,Farooq,f2024-0565@bnu.edu.pk,Software Engineering,2
+F2024-0568,Hassan,Mehmood,f2024-0568@bnu.edu.pk,Software Engineering,2
+F2024-0571,Emaan,Hussain,f2024-0571@bnu.edu.pk,Management Business Computing,2
+F2024-0575,Imran,Nawaz,f2024-0575@bnu.edu.pk,Software Engineering,2
+F2024-0579,Zain,Rafiq,f2024-0579@bnu.edu.pk,Software Engineering,2
+F2024-0584,Tariq,Zahid,f2024-0584@bnu.edu.pk,Management Business Computing,2
+F2024-0589,Kinza,Choudhry,f2024-0589@bnu.edu.pk,Computer Science,2
+F2024-0598,Bilal,Javed,f2024-0598@bnu.edu.pk,Software Engineering,2
+F2024-0603,Hassan,Tariq,f2024-0603@bnu.edu.pk,Software Engineering,2
+F2024-0604,Usman,Ali,f2024-0604@bnu.edu.pk,Computer Science,2
+F2024-0612,Rabia,Zahid,f2024-0612@bnu.edu.pk,Management Business Computing,2
+F2024-0613,Imran,Mirza,f2024-0613@bnu.edu.pk,Computer Science,2
+F2024-0614,Hassan,Qureshi,f2024-0614@bnu.edu.pk,Software Engineering,2
+F2024-0616,Rabia,Chaudhry,f2024-0616@bnu.edu.pk,Software Engineering,2
+F2024-0619,Emaan,Rafiq,f2024-0619@bnu.edu.pk,Management Business Computing,2
+F2024-0621,Ahsan,Mehmood,f2024-0621@bnu.edu.pk,Software Engineering,2
+F2024-0634,Rabia,Ali,f2024-0634@bnu.edu.pk,Management Business Computing,2
+F2024-0636,Umair,Anwar,f2024-0636@bnu.edu.pk,Management Business Computing,2
+F2024-0639,Bilal,Mirza,f2024-0639@bnu.edu.pk,Software Engineering,2
+F2024-0642,Amina,Chaudhry,f2024-0642@bnu.edu.pk,Computer Science,2
+F2024-0645,Junaid,Mirza,f2024-0645@bnu.edu.pk,Computer Science,2
+F2024-0652,Waqas,Mehmood,f2024-0652@bnu.edu.pk,Software Engineering,2
+F2024-0654,Dua,Nawaz,f2024-0654@bnu.edu.pk,Software Engineering,2
+F2024-0658,Tariq,Rafiq,f2024-0658@bnu.edu.pk,Software Engineering,2
+F2024-0662,Maha,Khan,f2024-0662@bnu.edu.pk,Software Engineering,2
+F2024-0663,Rabia,Sheikh,f2024-0663@bnu.edu.pk,Management Business Computing,2
+F2024-0665,Rabia,Zahid,f2024-0665@bnu.edu.pk,Software Engineering,2
+F2024-0668,Junaid,Sheikh,f2024-0668@bnu.edu.pk,Software Engineering,2
+F2024-0671,Laiba,Rana,f2024-0671@bnu.edu.pk,Management Business Computing,2
+F2024-0678,Noman,Farooq,f2024-0678@bnu.edu.pk,Management Business Computing,2
+F2024-0679,Yasir,Malik,f2024-0679@bnu.edu.pk,Software Engineering,2
+F2024-0680,Saad,Nawaz,f2024-0680@bnu.edu.pk,Software Engineering,2
+F2024-0687,Waqas,Ahmed,f2024-0687@bnu.edu.pk,Computer Science,2
+F2024-0693,Amina,Sheikh,f2024-0693@bnu.edu.pk,Management Business Computing,2
+F2024-0698,Usman,Chaudhry,f2024-0698@bnu.edu.pk,Management Business Computing,2
+F2024-0703,Osama,Hussain,f2024-0703@bnu.edu.pk,Management Business Computing,2
+F2024-0704,Osama,Rana,f2024-0704@bnu.edu.pk,Management Business Computing,2
+F2024-0705,Usman,Rana,f2024-0705@bnu.edu.pk,Management Business Computing,2
+F2024-0710,Fatima,Sheikh,f2024-0710@bnu.edu.pk,Management Business Computing,2
+F2024-0720,Maha,Nawaz,f2024-0720@bnu.edu.pk,Management Business Computing,2
+F2024-0727,Ali,Javed,f2024-0727@bnu.edu.pk,Computer Science,2
+F2024-0731,Shahid,Zahid,f2024-0731@bnu.edu.pk,Computer Science,2
+F2024-0737,Noman,Ali,f2024-0737@bnu.edu.pk,Management Business Computing,2
+F2024-0738,Hina,Rafiq,f2024-0738@bnu.edu.pk,Software Engineering,2
+F2024-0740,Usman,Anwar,f2024-0740@bnu.edu.pk,Software Engineering,2
+F2024-0754,Yasir,Tariq,f2024-0754@bnu.edu.pk,Computer Science,2
+F2024-0760,Junaid,Farooq,f2024-0760@bnu.edu.pk,Software Engineering,2
+F2024-0763,Waqas,Nawaz,f2024-0763@bnu.edu.pk,Management Business Computing,2
+F2024-0769,Saad,Qureshi,f2024-0769@bnu.edu.pk,Software Engineering,2
+F2024-0773,Shahid,Qureshi,f2024-0773@bnu.edu.pk,Computer Science,2
+F2024-0775,Sana,Tariq,f2024-0775@bnu.edu.pk,Software Engineering,2
+F2024-0779,Waqas,Zahid,f2024-0779@bnu.edu.pk,Software Engineering,2
+F2024-0787,Bilal,Hussain,f2024-0787@bnu.edu.pk,Management Business Computing,2
+F2024-0795,Zara,Anwar,f2024-0795@bnu.edu.pk,Management Business Computing,2
+F2024-0796,Imran,Zahid,f2024-0796@bnu.edu.pk,Management Business Computing,2
+F2024-0798,Shahid,Chaudhry,f2024-0798@bnu.edu.pk,Software Engineering,2
+F2024-0805,Yasir,Mehmood,f2024-0805@bnu.edu.pk,Management Business Computing,2
+F2024-0809,Hina,Anwar,f2024-0809@bnu.edu.pk,Management Business Computing,2
+F2024-0811,Hina,Ahmed,f2024-0811@bnu.edu.pk,Software Engineering,2
+F2024-0814,Nadia,Zahid,f2024-0814@bnu.edu.pk,Management Business Computing,2
+F2024-0822,Dua,Javed,f2024-0822@bnu.edu.pk,Computer Science,2
+F2024-0826,Amina,Anwar,f2024-0826@bnu.edu.pk,Management Business Computing,2
+F2024-0827,Kiran,Qureshi,f2024-0827@bnu.edu.pk,Software Engineering,2
+F2024-0829,Hassan,Qureshi,f2024-0829@bnu.edu.pk,Software Engineering,2
+F2024-0838,Waqas,Anwar,f2024-0838@bnu.edu.pk,Management Business Computing,2
+F2024-0839,Emaan,Hussain,f2024-0839@bnu.edu.pk,Management Business Computing,2
+F2024-0841,Sufian,Zahid,f2024-0841@bnu.edu.pk,Computer Science,2
+F2024-0842,Zain,Mirza,f2024-0842@bnu.edu.pk,Software Engineering,2
+F2024-0844,Hina,Rana,f2024-0844@bnu.edu.pk,Management Business Computing,2
+F2024-0847,Asma,Nawaz,f2024-0847@bnu.edu.pk,Computer Science,2
+F2024-0848,Ahsan,Malik,f2024-0848@bnu.edu.pk,Software Engineering,2
+F2024-0851,Saad,Saeed,f2024-0851@bnu.edu.pk,Software Engineering,2
+F2024-0859,Junaid,Chaudhry,f2024-0859@bnu.edu.pk,Computer Science,2
+F2024-0860,Rabia,Tariq,f2024-0860@bnu.edu.pk,Computer Science,2
+F2024-0862,Yasir,Tariq,f2024-0862@bnu.edu.pk,Software Engineering,2
+F2024-0865,Waqas,Aslam,f2024-0865@bnu.edu.pk,Management Business Computing,2
+F2024-0868,Saad,Khan,f2024-0868@bnu.edu.pk,Software Engineering,2
+F2024-0880,Junaid,Hussain,f2024-0880@bnu.edu.pk,Computer Science,2
+F2024-0882,Laiba,Mehmood,f2024-0882@bnu.edu.pk,Management Business Computing,2
+F2024-0888,Laiba,Ali,f2024-0888@bnu.edu.pk,Management Business Computing,2
+F2024-0891,Osama,Ali,f2024-0891@bnu.edu.pk,Management Business Computing,2
+F2024-0898,Laiba,Hussain,f2024-0898@bnu.edu.pk,Software Engineering,2
+F2024-0900,Iqra,Anwar,f2024-0900@bnu.edu.pk,Computer Science,2
+F2024-0904,Zara,Farooq,f2024-0904@bnu.edu.pk,Software Engineering,2
+F2024-0905,Amina,Hussain,f2024-0905@bnu.edu.pk,Computer Science,2
+F2024-0913,Iqra,Farooq,f2024-0913@bnu.edu.pk,Computer Science,2
+F2024-0914,Fatima,Mirza,f2024-0914@bnu.edu.pk,Computer Science,2
+F2024-0915,Saad,Mehmood,f2024-0915@bnu.edu.pk,Computer Science,2
+F2024-0920,Bilal,Aslam,f2024-0920@bnu.edu.pk,Computer Science,2
+F2024-0921,Rabia,Hussain,f2024-0921@bnu.edu.pk,Management Business Computing,2
+F2024-0922,Hina,Ali,f2024-0922@bnu.edu.pk,Software Engineering,2
+F2024-0925,Fatima,Farooq,f2024-0925@bnu.edu.pk,Computer Science,2
+F2024-0926,Umair,Hussain,f2024-0926@bnu.edu.pk,Software Engineering,2
+F2024-0929,Amina,Qureshi,f2024-0929@bnu.edu.pk,Management Business Computing,2
+F2024-0935,Fatima,Ali,f2024-0935@bnu.edu.pk,Computer Science,2
+F2024-0938,Imran,Hussain,f2024-0938@bnu.edu.pk,Computer Science,2
+F2024-0939,Shahid,Mirza,f2024-0939@bnu.edu.pk,Management Business Computing,2
+F2024-0941,Yasir,Mirza,f2024-0941@bnu.edu.pk,Software Engineering,2
+F2024-0949,Iqra,Nawaz,f2024-0949@bnu.edu.pk,Management Business Computing,2
+F2024-0953,Hassan,Rafiq,f2024-0953@bnu.edu.pk,Software Engineering,2
+F2024-0955,Asma,Farooq,f2024-0955@bnu.edu.pk,Software Engineering,2
+F2024-0964,Yasir,Aslam,f2024-0964@bnu.edu.pk,Computer Science,2
+F2024-0965,Noman,Farooq,f2024-0965@bnu.edu.pk,Computer Science,2
+F2024-0967,Fatima,Ali,f2024-0967@bnu.edu.pk,Software Engineering,2
+F2024-0970,Hina,Anwar,f2024-0970@bnu.edu.pk,Computer Science,2
+F2024-0982,Rabia,Hussain,f2024-0982@bnu.edu.pk,Software Engineering,2
+F2024-0983,Usman,Mirza,f2024-0983@bnu.edu.pk,Management Business Computing,2
+F2024-0993,Zara,Qureshi,f2024-0993@bnu.edu.pk,Management Business Computing,2
+F2024-0999,Umair,Anwar,f2024-0999@bnu.edu.pk,Software Engineering,2
+F2024-1001,Kiran,Rafiq,f2024-1001@bnu.edu.pk,Computer Science,2
+F2024-1002,Hina,Nawaz,f2024-1002@bnu.edu.pk,Management Business Computing,2
+F2024-1006,Ali,Nawaz,f2024-1006@bnu.edu.pk,Computer Science,2
+F2024-1011,Gulsher,Cheema,f2024-1011@bnu.edu.pk,Computer Science,2
+F2024-1017,Saad,Anwar,f2024-1017@bnu.edu.pk,Software Engineering,2
+F2024-1019,Tariq,Ahmed,f2024-1019@bnu.edu.pk,Software Engineering,2
+F2024-1024,Asma,Javed,f2024-1024@bnu.edu.pk,Management Business Computing,2
+F2024-1035,Iqra,Rafiq,f2024-1035@bnu.edu.pk,Software Engineering,2
+F2024-1038,Usman,Nawaz,f2024-1038@bnu.edu.pk,Software Engineering,2
+F2024-1047,Iqra,Chaudhry,f2024-1047@bnu.edu.pk,Software Engineering,2
+F2024-1048,Asma,Ahmed,f2024-1048@bnu.edu.pk,Management Business Computing,2
+F2024-1056,Yasir,Mirza,f2024-1056@bnu.edu.pk,Computer Science,2
+F2024-1057,Zara,Javed,f2024-1057@bnu.edu.pk,Computer Science,2
+F2024-1063,Fatima,Saeed,f2024-1063@bnu.edu.pk,Management Business Computing,2
+F2024-1065,Zara,Javed,f2024-1065@bnu.edu.pk,Software Engineering,2
+F2024-1068,Laiba,Hussain,f2024-1068@bnu.edu.pk,Software Engineering,2
+F2024-1071,Ali,Nawaz,f2024-1071@bnu.edu.pk,Software Engineering,2
+F2024-1072,Maha,Mirza,f2024-1072@bnu.edu.pk,Management Business Computing,2
+F2024-1074,Junaid,Chaudhry,f2024-1074@bnu.edu.pk,Management Business Computing,2
+F2024-1081,Hassan,Rana,f2024-1081@bnu.edu.pk,Management Business Computing,2
+F2024-1082,Rabia,Anwar,f2024-1082@bnu.edu.pk,Computer Science,2
+F2024-1086,Asma,Hussain,f2024-1086@bnu.edu.pk,Computer Science,2
+F2024-1087,Bilal,Anwar,f2024-1087@bnu.edu.pk,Management Business Computing,2
+F2024-1091,Osama,Mirza,f2024-1091@bnu.edu.pk,Software Engineering,2
+F2024-1093,Fatima,Khan,f2024-1093@bnu.edu.pk,Management Business Computing,2
+F2024-1098,Kiran,Aslam,f2024-1098@bnu.edu.pk,Software Engineering,2
+F2024-1111,Waqas,Mirza,f2024-1111@bnu.edu.pk,Computer Science,2
+F2024-1119,Umair,Rafiq,f2024-1119@bnu.edu.pk,Computer Science,2
+F2024-1120,Umair,Hussain,f2024-1120@bnu.edu.pk,Computer Science,2
+F2024-1126,Osama,Rana,f2024-1126@bnu.edu.pk,Management Business Computing,2
+F2024-1130,Yasir,Rana,f2024-1130@bnu.edu.pk,Software Engineering,2
+F2024-1133,Imran,Anwar,f2024-1133@bnu.edu.pk,Software Engineering,2
+F2024-1136,Amina,Mirza,f2024-1136@bnu.edu.pk,Computer Science,2
+F2024-1137,Zara,Farooq,f2024-1137@bnu.edu.pk,Computer Science,2
+F2024-1139,Junaid,Rafiq,f2024-1139@bnu.edu.pk,Management Business Computing,2
+F2024-1141,Kiran,Rafiq,f2024-1141@bnu.edu.pk,Management Business Computing,2
+F2024-1150,Waqas,Mirza,f2024-1150@bnu.edu.pk,Management Business Computing,2
+F2024-1155,Iqra,Aslam,f2024-1155@bnu.edu.pk,Computer Science,2
+F2024-1156,Fatima,Khan,f2024-1156@bnu.edu.pk,Computer Science,2
+F2024-1163,Shahid,Mirza,f2024-1163@bnu.edu.pk,Management Business Computing,2
+F2024-1167,Imran,Qureshi,f2024-1167@bnu.edu.pk,Software Engineering,2
+F2024-1170,Ali,Saeed,f2024-1170@bnu.edu.pk,Management Business Computing,2
+F2024-1171,Hassan,Anwar,f2024-1171@bnu.edu.pk,Software Engineering,2
+F2024-1172,Zain,Javed,f2024-1172@bnu.edu.pk,Management Business Computing,2
+F2024-1173,Hina,Malik,f2024-1173@bnu.edu.pk,Software Engineering,2
+F2024-1176,Hassan,Aslam,f2024-1176@bnu.edu.pk,Management Business Computing,2
+F2024-1180,Tariq,Rana,f2024-1180@bnu.edu.pk,Computer Science,2
+F2024-1181,Umair,Farooq,f2024-1181@bnu.edu.pk,Computer Science,2
+F2024-1183,Usman,Anwar,f2024-1183@bnu.edu.pk,Computer Science,2
+F2024-1184,Imran,Sheikh,f2024-1184@bnu.edu.pk,Computer Science,2
+F2024-1189,Yasir,Tariq,f2024-1189@bnu.edu.pk,Management Business Computing,2
+F2024-1193,Laiba,Zahid,f2024-1193@bnu.edu.pk,Software Engineering,2
+F2024-1195,Tariq,Ali,f2024-1195@bnu.edu.pk,Management Business Computing,2
+F2024-1197,Nadia,Mirza,f2024-1197@bnu.edu.pk,Computer Science,2
+F2024-1201,Saad,Anwar,f2024-1201@bnu.edu.pk,Software Engineering,2
+F2024-1202,Imran,Nawaz,f2024-1202@bnu.edu.pk,Management Business Computing,2
+F2024-1208,Bilal,Aslam,f2024-1208@bnu.edu.pk,Management Business Computing,2
+F2024-1212,Laiba,Mirza,f2024-1212@bnu.edu.pk,Software Engineering,2
+F2024-1214,Dua,Javed,f2024-1214@bnu.edu.pk,Software Engineering,2
+F2024-1217,Fatima,Rana,f2024-1217@bnu.edu.pk,Management Business Computing,2
+F2024-1223,Ahsan,Mehmood,f2024-1223@bnu.edu.pk,Computer Science,2
+F2024-1231,Fatima,Sheikh,f2024-1231@bnu.edu.pk,Management Business Computing,2
+F2024-1239,Tariq,Qureshi,f2024-1239@bnu.edu.pk,Management Business Computing,2
+F2024-1244,Kiran,Farooq,f2024-1244@bnu.edu.pk,Software Engineering,2
+F2024-1247,Bilal,Zahid,f2024-1247@bnu.edu.pk,Management Business Computing,2
+F2024-1248,Junaid,Rana,f2024-1248@bnu.edu.pk,Software Engineering,2
+F2024-1253,Rabia,Mehmood,f2024-1253@bnu.edu.pk,Computer Science,2
+F2024-1258,Maha,Ahmed,f2024-1258@bnu.edu.pk,Computer Science,2
+F2024-1259,Waqas,Malik,f2024-1259@bnu.edu.pk,Management Business Computing,2
+F2024-1262,Bilal,Qureshi,f2024-1262@bnu.edu.pk,Management Business Computing,2
+F2024-1265,Iqra,Rafiq,f2024-1265@bnu.edu.pk,Computer Science,2
+F2024-1269,Imran,Rafiq,f2024-1269@bnu.edu.pk,Computer Science,2
+F2024-1276,Osama,Malik,f2024-1276@bnu.edu.pk,Computer Science,2
+F2024-1285,Kiran,Hussain,f2024-1285@bnu.edu.pk,Computer Science,2
+F2024-1287,Iqra,Hussain,f2024-1287@bnu.edu.pk,Management Business Computing,2
+F2024-1296,Maha,Chaudhry,f2024-1296@bnu.edu.pk,Software Engineering,2
+F2024-1298,Maha,Chaudhry,f2024-1298@bnu.edu.pk,Software Engineering,2
+F2024-1300,Saad,Farooq,f2024-1300@bnu.edu.pk,Computer Science,2
+F2024-1307,Zain,Sheikh,f2024-1307@bnu.edu.pk,Computer Science,2
+F2024-1310,Tariq,Qureshi,f2024-1310@bnu.edu.pk,Software Engineering,2
+F2024-1312,Shahid,Nawaz,f2024-1312@bnu.edu.pk,Management Business Computing,2
+F2024-1314,Junaid,Chaudhry,f2024-1314@bnu.edu.pk,Management Business Computing,2
+F2024-1315,Hassan,Anwar,f2024-1315@bnu.edu.pk,Management Business Computing,2
+F2024-1321,Fatima,Khan,f2024-1321@bnu.edu.pk,Computer Science,2
+F2024-1322,Ali,Tariq,f2024-1322@bnu.edu.pk,Management Business Computing,2
+F2024-1324,Junaid,Malik,f2024-1324@bnu.edu.pk,Computer Science,2
+F2024-1326,Iqra,Farooq,f2024-1326@bnu.edu.pk,Management Business Computing,2
+F2024-1332,Zara,Chaudhry,f2024-1332@bnu.edu.pk,Software Engineering,2
+F2024-1334,Junaid,Aslam,f2024-1334@bnu.edu.pk,Management Business Computing,2
+F2024-1339,Kiran,Aslam,f2024-1339@bnu.edu.pk,Computer Science,2
+F2024-1341,Zain,Mehmood,f2024-1341@bnu.edu.pk,Computer Science,2
+F2024-1343,Umair,Javed,f2024-1343@bnu.edu.pk,Computer Science,2
+F2024-1347,Asma,Javed,f2024-1347@bnu.edu.pk,Management Business Computing,2
+F2024-1349,Fatima,Khan,f2024-1349@bnu.edu.pk,Computer Science,2
+F2024-1356,Amina,Malik,f2024-1356@bnu.edu.pk,Management Business Computing,2
+F2024-1369,Bilal,Aslam,f2024-1369@bnu.edu.pk,Software Engineering,2
+F2024-1376,Saad,Rana,f2024-1376@bnu.edu.pk,Software Engineering,2
+F2024-1379,Asma,Saeed,f2024-1379@bnu.edu.pk,Computer Science,2
+F2024-1385,Waqas,Javed,f2024-1385@bnu.edu.pk,Software Engineering,2
+F2024-1387,Saad,Aslam,f2024-1387@bnu.edu.pk,Computer Science,2
+F2024-1388,Usman,Tariq,f2024-1388@bnu.edu.pk,Management Business Computing,2
+F2024-1392,Yasir,Saeed,f2024-1392@bnu.edu.pk,Computer Science,2
+F2024-1393,Fatima,Saeed,f2024-1393@bnu.edu.pk,Software Engineering,2
+F2024-1395,Junaid,Mehmood,f2024-1395@bnu.edu.pk,Computer Science,2
+F2024-1396,Saad,Aslam,f2024-1396@bnu.edu.pk,Computer Science,2
+F2024-1403,Nadia,Rana,f2024-1403@bnu.edu.pk,Software Engineering,2
+F2024-1406,Shahid,Javed,f2024-1406@bnu.edu.pk,Management Business Computing,2
+F2024-1415,Zain,Mehmood,f2024-1415@bnu.edu.pk,Computer Science,2
+F2024-1417,Noman,Saeed,f2024-1417@bnu.edu.pk,Software Engineering,2
+F2024-1421,Saad,Sheikh,f2024-1421@bnu.edu.pk,Management Business Computing,2
+F2024-1423,Tariq,Khan,f2024-1423@bnu.edu.pk,Software Engineering,2
+F2024-1425,Ahsan,Ahmed,f2024-1425@bnu.edu.pk,Software Engineering,2
+F2024-1426,Hassan,Rana,f2024-1426@bnu.edu.pk,Management Business Computing,2
+F2024-1437,Yasir,Chaudhry,f2024-1437@bnu.edu.pk,Computer Science,2
+F2024-1438,Tariq,Ahmed,f2024-1438@bnu.edu.pk,Management Business Computing,2
+F2024-1443,Rabia,Rana,f2024-1443@bnu.edu.pk,Computer Science,2
+F2024-1444,Dua,Malik,f2024-1444@bnu.edu.pk,Management Business Computing,2
+F2024-1449,Saad,Mehmood,f2024-1449@bnu.edu.pk,Management Business Computing,2
+F2024-1452,Zain,Anwar,f2024-1452@bnu.edu.pk,Management Business Computing,2
+F2024-1454,Amina,Malik,f2024-1454@bnu.edu.pk,Management Business Computing,2
+F2024-1456,Osama,Mirza,f2024-1456@bnu.edu.pk,Management Business Computing,2
+F2024-1457,Fatima,Chaudhry,f2024-1457@bnu.edu.pk,Software Engineering,2
+F2024-1459,Amina,Khan,f2024-1459@bnu.edu.pk,Management Business Computing,2
+F2024-1460,Rabia,Malik,f2024-1460@bnu.edu.pk,Management Business Computing,2
+F2024-1461,Hina,Javed,f2024-1461@bnu.edu.pk,Computer Science,2
+F2024-1466,Bilal,Mehmood,f2024-1466@bnu.edu.pk,Computer Science,2
+F2024-1476,Fatima,Qureshi,f2024-1476@bnu.edu.pk,Software Engineering,2
+F2024-1485,Umair,Anwar,f2024-1485@bnu.edu.pk,Management Business Computing,2
+F2024-1487,Saad,Malik,f2024-1487@bnu.edu.pk,Management Business Computing,2
+F2024-1490,Umair,Nawaz,f2024-1490@bnu.edu.pk,Software Engineering,2
+F2024-1497,Ahsan,Anwar,f2024-1497@bnu.edu.pk,Software Engineering,2
