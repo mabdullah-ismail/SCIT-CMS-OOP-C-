@@ -1,2 +1,2 @@
-# SCIT-CMS-OOP-C-
+# SCIT-CMS-OOP-C++
 2nd Semester Project
